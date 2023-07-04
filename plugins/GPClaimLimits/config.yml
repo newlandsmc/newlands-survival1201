@@ -1,0 +1,8 @@
+#
+
+messages:
+  claim-limit-reached: <red>You have reached your current claim limit! You can purchase
+    a higher limit in the donation store (/store).
+  claim-above-limit: <red>You can not create this claim as you are already at your
+    limit! You can purchase a higher limit in the donation store (/store).
+config-version: 2
