@@ -16580,3 +16580,190 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ xDBirb was punished for Boat Fly (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: 15063.220087916361
+ - Y: 67.55000001192093
+ - Z: -9006.27688740882
+
+Information:
+ - UUID: b977c764-ef95-4372-95ae-fdee88565cc8
+ - Keep Alive Ping: 112
+ - Transaction Ping: 126
+ - Server TPS: 20
+ - Sensitivity: 70
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: CraftBoat{boatType=OAK,status=IN_AIR,passengers={CraftPlayer{name=xDBirb}}}
+ - Version: 1.20
+ - Last Damage: 75.8 seconds ago
+
+Total Violations: 17
+ - Combat Violations: 0
+ - Movement Violations: 17
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 127
+ - Since Riptide Ticks: 1508
+ - Flying Delay: 50
+ - Since Velocity Ticks: 1516
+ - Since Firework Ticks: 1508
+ - Ticks Existed: 1736
+ - Since Vehicle Ticks: 0
+ - Since Liquid Ticks: 102
+ - Queued Transactions: 1
+ - Joined: 140 seconds ago
+
+All Violations:
+ - Boat Fly (Type B) [VL: 2] (Moving too quickly horizontally.)
+ - Boat Fly (Type C) [VL: 15] (Hovering in a boat.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftBoat{boatType=OAK,status=IN_AIR,passengers={CraftPlayer{name=xDBirb}}}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ xDBirb was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 15098.164662832956
+ - Y: 64.0
+ - Z: -9017.699999988079
+
+Information:
+ - UUID: b977c764-ef95-4372-95ae-fdee88565cc8
+ - Keep Alive Ping: 49
+ - Transaction Ping: 117
+ - Server TPS: 20
+ - Sensitivity: 70
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 37.1 seconds ago
+
+Total Violations: 8
+ - Combat Violations: 0
+ - Movement Violations: 5
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 603
+ - Since Riptide Ticks: 808
+ - Flying Delay: 52
+ - Since Velocity Ticks: 742
+ - Since Firework Ticks: 808
+ - Ticks Existed: 642
+ - Since Vehicle Ticks: 604
+ - Since Liquid Ticks: 67
+ - Queued Transactions: 0
+ - Joined: 32 seconds ago
+
+All Violations:
+ - Boat Fly (Type C) [VL: 4] (Hovering in a boat.)
+ - Jesus (Type E) [VL: 1] (Moving too quickly on water.)
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [DIRT, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ xDBirb was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 15089.975952281338
+ - Y: 64.0
+ - Z: -9038.882593403181
+
+Information:
+ - UUID: b977c764-ef95-4372-95ae-fdee88565cc8
+ - Keep Alive Ping: 0
+ - Transaction Ping: 125
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 9.0 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 180
+ - Since Riptide Ticks: 278
+ - Flying Delay: 49
+ - Since Velocity Ticks: 180
+ - Since Firework Ticks: 278
+ - Ticks Existed: 80
+ - Since Vehicle Ticks: 178
+ - Since Liquid Ticks: 178
+ - Queued Transactions: 1
+ - Joined: 4 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, GRASS, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ xDBirb was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 15064.383097530166
+ - Y: 64.0
+ - Z: -9040.77337055611
+
+Information:
+ - UUID: b977c764-ef95-4372-95ae-fdee88565cc8
+ - Keep Alive Ping: 0
+ - Transaction Ping: 122
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 9.55 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 191
+ - Since Riptide Ticks: 288
+ - Flying Delay: 0
+ - Since Velocity Ticks: 191
+ - Since Firework Ticks: 288
+ - Ticks Existed: 91
+ - Since Vehicle Ticks: 188
+ - Since Liquid Ticks: 188
+ - Queued Transactions: 1
+ - Joined: 5 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, GRASS, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

@@ -106,25 +106,25 @@ experience:
   levels:
     '1':
       chance: 15
-      cooldown: 1
+      cooldown: 5
       condition: '%block type% contains ORE : %allow%'
       effects:
       - EXP:<random number>2-5</random number>
     '2':
       chance: 30
-      cooldown: 2
+      cooldown: 5
       condition: '%block type% contains ORE : %allow%'
       effects:
       - EXP:<random number>2-5</random number>
     '3':
       chance: 45
-      cooldown: 3
+      cooldown: 5
       condition: '%block type% contains ORE : %allow%'
       effects:
       - EXP:<random number>2-5</random number>
     '4':
       chance: 60
-      cooldown: 4
+      cooldown: 5
       condition: '%block type% contains ORE : %allow%'
       effects:
       - EXP:<random number>2-5</random number>
@@ -611,7 +611,7 @@ arrowdeflect:
     Chance to prevent enemy arrow from dealing
     damage.
   applies-to: Boots, Leggings, Chestplates, Helmets
-  type: DEFENSE_PROJECTILE
+  type: DEFENSE_PROJECTILE;DEFENSE_MOB_PROJECTILE
   group: LEGENDARY
   applies:
   - ALL_ARMOR
@@ -665,7 +665,7 @@ dodge:
     Chance to dodge attack, chance increases
     when sneaking.
   applies-to: Boots, Leggings, Chestplates, Helmets
-  type: DEFENSE;DEFENSE_MOB
+  type: DEFENSE;DEFENSE_MOB;DEFENSE_PROJECTILE;DEFENSE_MOB_PROJECTILE
   group: LEGENDARY
   applies:
   - ALL_LEGGINGS
@@ -752,7 +752,7 @@ reinforced:
   display: '%group-color%Reinforced'
   description: Reduces damage dealt to you.
   applies-to: Elytra
-  type: DEFENSE;DEFENSE_MOB;DEFENSE_PROJECTILE
+  type: DEFENSE;DEFENSE_MOB;DEFENSE_PROJECTILE;DEFENSE_MOB_PROJECTILE
   group: LEGENDARY
   applies:
   - ELYTRA
@@ -849,7 +849,7 @@ heavy:
     Decreases damage from enemy bows by 4% per
     level.
   applies-to: Boots, Leggings, Chestplates, Helmets
-  type: DEFENSE;DEFENSE_PROJECTILE
+  type: DEFENSE_PROJECTILE;DEFENSE_MOB_PROJECTILE
   group: LEGENDARY
   settings:
     not-applyable-with:
@@ -1798,7 +1798,7 @@ diminish:
   display: '%group-color%Diminish'
   description: Chance to reduce incoming damage.
   applies-to: Boots, Leggings, Chestplates, Helmets
-  type: DEFENSE;DEFENSE_MOB
+  type: DEFENSE;DEFENSE_MOB;DEFENSE_PROJECTILE;DEFENSE_MOB_PROJECTILE
   group: EXOTIC
   applies:
   - ALL_ARMOR
@@ -1835,77 +1835,59 @@ markofthebeast:
     incoming damage is increased by 2x for up to 5
     seconds
   applies-to: Boots, Leggings, Chestplates, Helmets
-  type: DEFENSE;DEFENSE_MOB
+  type: DEFENSE;DEFENSE_MOB;DEFENSE_PROJECTILE;DEFENSE_MOB_PROJECTILE
   group: FABLED
   applies:
   - ALL_ARMOR
   levels:
     '1':
       chance: 5
-      cooldown: 600
-      effects:
-      - ACTION_BAR:§5*** BEAST MARKED! *** @Victim
-      - ACTION_BAR:§c*** YOU'VE BEEN MARKED! *** @Attacker
-      - INCREASE_DAMAGE:50 @Attacker
-      - WAIT:20
-      - INCREASE_DAMAGE:50 @Attacker
-      - WAIT:20
-      - ACTION_BAR:§5*** BEAST UNMARKED! *** @Victim
-      - ACTION_BAR:§a*** YOU'RE NO LONGER MARKED! *** @Attacker
-    '2':
-      chance: 7
-      cooldown: 500
-      effects:
-      - ACTION_BAR:§5*** BEAST MARKED! *** @Victim
-      - ACTION_BAR:§c*** YOU'VE BEEN MARKED! *** @Attacker
-      - INCREASE_DAMAGE:50 @Attacker
-      - WAIT:20
-      - INCREASE_DAMAGE:50 @Attacker
-      - WAIT:20
-      - ACTION_BAR:§5*** BEAST UNMARKED! *** @Victim
-      - ACTION_BAR:§a*** YOU'RE NO LONGER MARKED! *** @Attacker
-    '3':
-      chance: 9
-      cooldown: 400
-      effects:
-      - ACTION_BAR:§5*** BEAST MARKED! *** @Victim
-      - ACTION_BAR:§c*** YOU'VE BEEN MARKED! *** @Attacker
-      - INCREASE_DAMAGE:50 @Attacker
-      - WAIT:20
-      - INCREASE_DAMAGE:50 @Attacker
-      - WAIT:20
-      - INCREASE_DAMAGE:50 @Attacker
-      - WAIT:20
-      - ACTION_BAR:§5*** BEAST UNMARKED! *** @Victim
-      - ACTION_BAR:§a*** YOU'RE NO LONGER MARKED! *** @Attacker
-    '4':
-      chance: 11
       cooldown: 300
       effects:
       - ACTION_BAR:§5*** BEAST MARKED! *** @Victim
       - ACTION_BAR:§c*** YOU'VE BEEN MARKED! *** @Attacker
-      - INCREASE_DAMAGE:50 @Attacker
-      - WAIT:20
-      - INCREASE_DAMAGE:50 @Attacker
-      - WAIT:20
-      - INCREASE_DAMAGE:50 @Attacker
-      - WAIT:20
+      - INCREASE_DAMAGE:100 @Attacker
+      - WAIT:40
+      - ACTION_BAR:§5*** BEAST UNMARKED! *** @Victim
+      - ACTION_BAR:§a*** YOU'RE NO LONGER MARKED! *** @Attacker
+    '2':
+      chance: 7
+      cooldown: 240
+      effects:
+      - ACTION_BAR:§5*** BEAST MARKED! *** @Victim
+      - ACTION_BAR:§c*** YOU'VE BEEN MARKED! *** @Attacker
+      - INCREASE_DAMAGE:100 @Attacker
+      - WAIT:40
+      - ACTION_BAR:§5*** BEAST UNMARKED! *** @Victim
+      - ACTION_BAR:§a*** YOU'RE NO LONGER MARKED! *** @Attacker
+    '3':
+      chance: 9
+      cooldown: 180
+      effects:
+      - ACTION_BAR:§5*** BEAST MARKED! *** @Victim
+      - ACTION_BAR:§c*** YOU'VE BEEN MARKED! *** @Attacker
+      - INCREASE_DAMAGE:100 @Attacker
+      - WAIT:60
+      - ACTION_BAR:§5*** BEAST UNMARKED! *** @Victim
+      - ACTION_BAR:§a*** YOU'RE NO LONGER MARKED! *** @Attacker
+    '4':
+      chance: 11
+      cooldown: 150
+      effects:
+      - ACTION_BAR:§5*** BEAST MARKED! *** @Victim
+      - ACTION_BAR:§c*** YOU'VE BEEN MARKED! *** @Attacker
+      - INCREASE_DAMAGE:100 @Attacker
+      - WAIT:80
       - ACTION_BAR:§5*** BEAST UNMARKED! *** @Victim
       - ACTION_BAR:§a*** YOU'RE NO LONGER MARKED! *** @Attacker
     '5':
       chance: 15
-      cooldown: 200
+      cooldown: 120
       effects:
       - ACTION_BAR:§5*** BEAST MARKED! *** @Victim
       - ACTION_BAR:§c*** YOU'VE BEEN MARKED! *** @Attacker
-      - INCREASE_DAMAGE:50 @Attacker
-      - WAIT:20
-      - INCREASE_DAMAGE:50 @Attacker
-      - WAIT:20
-      - INCREASE_DAMAGE:50 @Attacker
-      - WAIT:20
-      - INCREASE_DAMAGE:50 @Attacker
-      - WAIT:20
+      - INCREASE_DAMAGE:100 @Attacker
+      - WAIT:100
       - ACTION_BAR:§5*** BEAST UNMARKED! *** @Victim
       - ACTION_BAR:§a*** YOU'RE NO LONGER MARKED! *** @Attacker
 reach:
@@ -1991,7 +1973,7 @@ block:
   display: '%group-color%Block'
   description: Chance to passively reduce damage
   applies-to: Shields
-  type: DEFENSE;DEFENSE_MOB
+  type: DEFENSE;DEFENSE_MOB;DEFENSE_PROJECTILE;DEFENSE_MOB_PROJECTILE
   group: EXOTIC
   applies:
   - SHIELD
