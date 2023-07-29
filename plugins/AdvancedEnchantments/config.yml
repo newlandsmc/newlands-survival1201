@@ -889,6 +889,7 @@ settings:
   held-shift-cross-update: true
   allow-place-of-armor-block: true
   collect-souls-from-players: false
+  right-click-triggers-on-off-hand: false
 armor-items:
   helmet:
   - HEAD

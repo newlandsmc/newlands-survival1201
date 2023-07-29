@@ -8,8 +8,8 @@ GriefPrevention:
   Claims:
     Mode:
       world: Survival
-      world_the_end: Disabled
-      world_nether: Disabled
+      world_the_end: Survival
+      world_nether: Survival
     PreventGlobalMonsterEggs: true
     PreventTheft: true
     ProtectCreatures: true
@@ -157,6 +157,7 @@ GriefPrevention:
   CreaturesTrampleCrops: true
   RabbitsEatCrops: true
   HardModeZombiesBreakDoors: false
+  MobProjectilesChangeBlocks: false
   Database:
     URL: jdbc:mysql://localhost:3306/newlands_gpdata2
     UserName: griefprevention
