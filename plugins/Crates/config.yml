@@ -10,10 +10,10 @@ loot: # specifies what files to pull the loot tables from (in loot folder)
       - 'vote.json'
 services:
   - "Minecraft.Buzz"
-  - "Minecraft Survival Servers"
-  - "MinecraftPocket-Servers.com"
+  - "MCSL"
+  - "Minecraft-MP.com"
   - "Minecraft-Server.net"
-  - "serverlist101.com"
+  - "TopMinecraftServers"
   - "MC-Servers.com"
 free-premium-crate:
   enable: true
@@ -24,9 +24,9 @@ free-premium-crate:
     check: true
     default: 1
     awoken: 2
-    sage: 3
-    savant: 4
-    legend: 5
+    sage: 2
+    savant: 3
+    legend: 4
     guardian: 5
 menu:
   enable-animation: true # enables the 'animation' in the men
