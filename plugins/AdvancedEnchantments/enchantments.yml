@@ -1244,24 +1244,24 @@ inflame:
       condition:
       - '%damage cause% != THORNS : %allow%'
       effects:
-      - PARTICLE:FALLING_LAVA:5:0 <aoe> radius=3 target=damageable </aoe>
-      - BURN:40 <aoe> radius=2 target=damageable </aoe>
+      - PARTICLE:FALLING_LAVA:5:0 @Aoe{radius=3,target=damageable}
+      - BURN:40 @Aoe{radius=2,target=damageable}
     '2':
       chance: 15
       cooldown: 5
       condition:
       - '%damage cause% != THORNS : %allow%'
       effects:
-      - PARTICLE:FALLING_LAVA:5:0 <aoe> radius=4 target=damageable </aoe>
-      - BURN:50 <aoe> radius=6 target=damageable </aoe>
+      - PARTICLE:FALLING_LAVA:5:0 @Aoe{radius=4,target=damageable}
+      - BURN:50 @Aoe{radius=6,target=damageable}
     '3':
       chance: 25
       cooldown: 5
       condition:
       - '%damage cause% != THORNS : %allow%'
       effects:
-      - PARTICLE:FALLING_LAVA:5:0 <aoe> radius=4 target=damageable </aoe>
-      - BURN:60 <aoe> radius=4 target=damageable </aoe>
+      - PARTICLE:FALLING_LAVA:5:0 @Aoe{radius=4,target=damageable}
+      - BURN:60 @Aoe{radius=4,target=damageable}
 killaura:
   display: '%group-color%Kill Aura'
   description: Chance to damage multiple monsters in radius.
@@ -1278,40 +1278,40 @@ killaura:
       condition:
       - '%damage cause% != THORNS : %allow%'
       effects:
-      - PARTICLE:SPELL_MOB:5:0 <aoe> radius=3 target=mobs </aoe>
-      - DO_HARM:2 <aoe> radius=2 target=mobs </aoe>
+      - PARTICLE:SPELL_MOB:5:0 @Aoe{radius=3,target=mobs}
+      - DO_HARM:2 @Aoe{radius=2,target=mobs}
     '2':
       chance: 8
       cooldown: 4
       condition:
       - '%damage cause% != THORNS : %allow%'
       effects:
-      - PARTICLE:SPELL_MOB:5:0 <aoe> radius=3 target=mobs </aoe>
-      - DO_HARM:3 <aoe> radius=2 target=mobs </aoe>
+      - PARTICLE:SPELL_MOB:5:0 @Aoe{radius=3,target=mobs}
+      - DO_HARM:3 @Aoe{radius=2,target=mobs}
     '3':
       chance: 12
       cooldown: 5
       condition:
       - '%damage cause% != THORNS : %allow%'
       effects:
-      - PARTICLE:SPELL_MOB:5:0 <aoe> radius=3 target=mobs </aoe>
-      - DO_HARM:4 <aoe> radius=3 target=mobs </aoe>
+      - PARTICLE:SPELL_MOB:5:0 @Aoe{radius=3,target=mobs}
+      - DO_HARM:4 @Aoe{radius=3,target=mobs}
     '4':
       chance: 15
       cooldown: 5
       condition:
       - '%damage cause% != THORNS : %allow%'
       effects:
-      - PARTICLE:SPELL_MOB:5:0 <aoe> radius=4 target=mobs </aoe>
-      - DO_HARM:5 <aoe> radius=3 target=mobs </aoe>
+      - PARTICLE:SPELL_MOB:5:0 @Aoe{radius=4,target=mobs}
+      - DO_HARM:5 @Aoe{radius=3,target=mobs}
     '5':
       chance: 18
       cooldown: 6
       condition:
       - '%damage cause% != THORNS : %allow%'
       effects:
-      - PARTICLE:SPELL_MOB:5:0 <aoe> radius=4 target=mobs </aoe>
-      - DO_HARM:7 <aoe> radius=4 target=mobs </aoe>
+      - PARTICLE:SPELL_MOB:5:0 @Aoe{radius=4,target=mobs}
+      - DO_HARM:7 @Aoe{radius=4,target=mobs}
 inquisitive:
   display: '%group-color%Inquisitive'
   description: Increase EXP drops from mobs.
@@ -1479,13 +1479,13 @@ plummet:
   levels:
     '1':
       effects:
-      - DO_HARM:2 <aoe> radius=3 target=mobs </aoe>
+      - DO_HARM:2 @Aoe{radius=3,target=mobs}
     '2':
       effects:
-      - DO_HARM:3 <aoe> radius=5 target=mobs </aoe>
+      - DO_HARM:3 @Aoe{radius=5,target=mobs}
     '3':
       effects:
-      - DO_HARM:5 <aoe> radius=5 target=mobs </aoe>
+      - DO_HARM:5 @Aoe{radius=5,target=mobs}
 nightowl:
   display: '%group-color%Night Owl'
   description: Deal more damage to mobs at night.
@@ -1917,17 +1917,17 @@ shockwave:
       chance: 11
       cooldown: 15
       effects:
-      - PULL_AWAY <aoe> radius=2 target=damageable </aoe>
+      - PULL_AWAY @Aoe{radius=2,target=damageable}
     '2':
       chance: 22
       cooldown: 10
       effects:
-      - PULL_AWAY <aoe> radius=3 target=damageable </aoe>
+      - PULL_AWAY @Aoe{radius=3,target=damageable}
     '3':
       chance: 33
       cooldown: 8
       effects:
-      - PULL_AWAY <aoe> radius=3 target=damageable </aoe>
+      - PULL_AWAY @Aoe{radius=3,target=damageable}
 rebuff:
   display: '%group-color%Rebuff'
   description: |-
