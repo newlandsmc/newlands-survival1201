@@ -180,19 +180,6 @@ rebreather:
       - AIR:20
       - WAIT:5
       - AIR:20
-decapitation:
-  display: '%group-color%Decapitation'
-  description: Opponents head drop on death.
-  applies-to: Swords, Axes
-  type: KILL_PLAYER
-  group: COMMON
-  applies:
-  - ALL_SWORD
-  - ALL_AXE
-  levels:
-    '1':
-      effects:
-      - DROP_HEAD @Victim
 reflect:
   display: '%group-color%Reflect'
   description: |-

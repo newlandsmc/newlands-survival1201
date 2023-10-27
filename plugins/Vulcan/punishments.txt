@@ -26911,3 +26911,4777 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ Aezhyll was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 4623.923266890062
+ - Y: 115.0
+ - Z: -10514.552275467066
+
+Information:
+ - UUID: 4f6a94c9-a15c-4e98-9608-6da0296b7e3c
+ - Keep Alive Ping: 171
+ - Transaction Ping: 302
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 19.25 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 385
+ - Since Riptide Ticks: 259
+ - Flying Delay: 451
+ - Since Velocity Ticks: 385
+ - Since Firework Ticks: 259
+ - Ticks Existed: 285
+ - Since Vehicle Ticks: 159
+ - Since Liquid Ticks: 159
+ - Queued Transactions: 1
+ - Joined: 55 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [DIRT, GRASS_BLOCK, GRASS_BLOCK, OAK_LOG, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, DIRT, CAMPFIRE, AIR, OAK_LOG, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5380.308213561327
+ - Y: 105.5625
+ - Z: -12422.641382526946
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 69
+ - Transaction Ping: 77
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 205.25 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 3402
+ - Since Riptide Ticks: 107258
+ - Flying Delay: 49
+ - Since Velocity Ticks: 4105
+ - Since Firework Ticks: 107258
+ - Ticks Existed: 124687
+ - Since Vehicle Ticks: 107158
+ - Since Liquid Ticks: 314
+ - Queued Transactions: 0
+ - Joined: 20915 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, STONE, AIR, AIR, ORANGE_BED, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, AIR, AIR, ORANGE_BED, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Wild_Cation was punished for Timer (Type D) ]--------------
+
+Location:
+ - World: world
+ - X: -20416.419705849923
+ - Y: 81.0
+ - Z: -1780.3350175191958
+
+Information:
+ - UUID: 551c6a77-4f2b-44d1-94e1-3b5d4d9f8d89
+ - Keep Alive Ping: 4487
+ - Transaction Ping: 519
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 25.65 seconds ago
+
+Total Violations: 0
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 4816
+ - Since Riptide Ticks: 39814
+ - Flying Delay: 69
+ - Since Velocity Ticks: 513
+ - Since Firework Ticks: 39814
+ - Ticks Existed: 58595
+ - Since Vehicle Ticks: 4319
+ - Since Liquid Ticks: 5512
+ - Queued Transactions: 2
+ - Joined: 4184 seconds ago
+
+All Violations:
+ - Timer (Type D) [VL: 35] (Increased game speed.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, GRASS_BLOCK, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, DIRT, GRASS_BLOCK, DIRT, GRASS_BLOCK, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPig]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ xDayumm was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -5906.5771249232075
+ - Y: 96.0
+ - Z: -6650.8530849998715
+
+Information:
+ - UUID: be4c6bbc-06f9-4b4d-b526-ab1551d29b15
+ - Keep Alive Ping: 40
+ - Transaction Ping: 46
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 7.9 seconds ago
+
+Total Violations: 83
+ - Combat Violations: 0
+ - Movement Violations: 83
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 19581
+ - Since Riptide Ticks: 40702
+ - Flying Delay: 50
+ - Since Velocity Ticks: 158
+ - Since Firework Ticks: 40702
+ - Ticks Existed: 43930
+ - Since Vehicle Ticks: 40602
+ - Since Liquid Ticks: 7748
+ - Queued Transactions: 0
+ - Joined: 3596 seconds ago
+
+All Violations:
+ - Flight (Type A) [VL: 15] (Invalid Y-Axis movement.)
+ - Flight (Type B) [VL: 12] (Invalid Y-Axis movement.)
+ - Flight (Type C) [VL: 15] (Invalid Y-Axis movement.)
+ - Flight (Type D) [VL: 2] (Invalid Y-Axis movement.)
+ - Flight (Type E) [VL: 11] (Invalid Y-Axis movement.)
+ - Jump (Type A) [VL: 8] (Invalid jump motion.)
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+ - Step (Type B) [VL: 5] (Invalid Step motion.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_LEAVES, SPRUCE_LEAVES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_LEAVES, SPRUCE_LEAVES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Indirec was punished for Strafe (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -7532.606187862336
+ - Y: 67.0
+ - Z: -2998.2675189278693
+
+Information:
+ - UUID: 12bceb3e-70fd-49ef-910f-bc190e62bc87
+ - Keep Alive Ping: 3160
+ - Transaction Ping: 13456
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 102.5 seconds ago
+
+Total Violations: 26
+ - Combat Violations: 0
+ - Movement Violations: 26
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 39
+ - Since Riptide Ticks: 12489
+ - Flying Delay: 85
+ - Since Velocity Ticks: 2050
+ - Since Firework Ticks: 12489
+ - Ticks Existed: 14413
+ - Since Vehicle Ticks: 12389
+ - Since Liquid Ticks: 8629
+ - Queued Transactions: 55
+ - Joined: 1384 seconds ago
+
+All Violations:
+ - Flight (Type B) [VL: 1] (Invalid Y-Axis movement.)
+ - Speed (Type A) [VL: 4] (Invalid friction.)
+ - Speed (Type C) [VL: 6] (Moving too quickly in the air.)
+ - Strafe (Type A) [VL: 15] (Moving incorrectly in the air.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OAK_STAIRS, OAK_STAIRS, AIR, OAK_LOG, AIR, AIR, OAK_LOG, AIR, AIR, OAK_LOG, AIR, AIR, OAK_PLANKS, OAK_STAIRS, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ MRRoster1999 was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -18724.1597126127
+ - Y: 144.0
+ - Z: -1552.167521892929
+
+Information:
+ - UUID: 0b1735cb-58ce-4260-9dd4-50755397cb5e
+ - Keep Alive Ping: 87
+ - Transaction Ping: 85
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 206.05 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 9508
+ - Since Riptide Ticks: 8579
+ - Flying Delay: 52
+ - Since Velocity Ticks: 4121
+ - Since Firework Ticks: 8579
+ - Ticks Existed: 9408
+ - Since Vehicle Ticks: 8479
+ - Since Liquid Ticks: 739
+ - Queued Transactions: 0
+ - Joined: 674 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Hihowareyou678 was punished for Aim (Type K) ]--------------
+
+Location:
+ - World: world
+ - X: 3714.3073876118706
+ - Y: 107.0
+ - Z: -21375.377912717555
+
+Information:
+ - UUID: cce7a235-8f8e-47bb-b46e-34ade24fc532
+ - Keep Alive Ping: 71
+ - Transaction Ping: 79
+ - Server TPS: 20
+ - Sensitivity: -34
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 50.2 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 15
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 2667
+ - Since Riptide Ticks: 5336
+ - Flying Delay: 50
+ - Since Velocity Ticks: 1004
+ - Since Firework Ticks: 5336
+ - Ticks Existed: 5476
+ - Since Vehicle Ticks: 5236
+ - Since Liquid Ticks: 5236
+ - Queued Transactions: 0
+ - Joined: 274 seconds ago
+
+All Violations:
+ - Aim (Type K) [VL: 15] (Not constant rotations.)
+
+Blocks Nearby: [LARGE_FERN, AIR, AIR, LARGE_FERN, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OAK_LOG, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ JadenCovYT was punished for Aim (Type K) ]--------------
+
+Location:
+ - World: world
+ - X: -4842.037656930609
+ - Y: 72.0
+ - Z: -4521.9109398464625
+
+Information:
+ - UUID: 4b6234d8-efc4-49b4-a8a7-735a8728fe52
+ - Keep Alive Ping: 64
+ - Transaction Ping: 89
+ - Server TPS: 20
+ - Sensitivity: -34
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 199.7 seconds ago
+
+Total Violations: 19
+ - Combat Violations: 15
+ - Movement Violations: 4
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 6613
+ - Since Riptide Ticks: 13725
+ - Flying Delay: 55
+ - Since Velocity Ticks: 3994
+ - Since Firework Ticks: 13725
+ - Ticks Existed: 15069
+ - Since Vehicle Ticks: 13625
+ - Since Liquid Ticks: 13625
+ - Queued Transactions: 0
+ - Joined: 802 seconds ago
+
+All Violations:
+ - Aim (Type K) [VL: 15] (Not constant rotations.)
+ - Jump (Type A) [VL: 1] (Invalid jump motion.)
+ - Speed (Type A) [VL: 2] (Invalid friction.)
+ - Sprint (Type A) [VL: 1] (Invalid sprint direction.)
+ - Timer (Type A) [VL: 1] (Increased game speed.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ JadenCovYT was punished for Speed (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -2855.3778820819502
+ - Y: 65.0
+ - Z: -1746.3429383757023
+
+Information:
+ - UUID: 4b6234d8-efc4-49b4-a8a7-735a8728fe52
+ - Keep Alive Ping: 93
+ - Transaction Ping: 103
+ - Server TPS: 20
+ - Sensitivity: -33
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 123.95 seconds ago
+
+Total Violations: 25
+ - Combat Violations: 0
+ - Movement Violations: 25
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 617
+ - Since Riptide Ticks: 56639
+ - Flying Delay: 50
+ - Since Velocity Ticks: 2479
+ - Since Firework Ticks: 56639
+ - Ticks Existed: 62075
+ - Since Vehicle Ticks: 56539
+ - Since Liquid Ticks: 536
+ - Queued Transactions: 0
+ - Joined: 3377 seconds ago
+
+All Violations:
+ - Jump (Type A) [VL: 1] (Invalid jump motion.)
+ - Speed (Type A) [VL: 12] (Invalid friction.)
+ - Sprint (Type A) [VL: 12] (Invalid sprint direction.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, GRASS, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5648.130651656069
+ - Y: 204.0
+ - Z: -14644.297162612087
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 68
+ - Transaction Ping: 80
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 67.5 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 2783
+ - Since Riptide Ticks: 75586
+ - Flying Delay: 251
+ - Since Velocity Ticks: 1350
+ - Since Firework Ticks: 51565
+ - Ticks Existed: 97114
+ - Since Vehicle Ticks: 36030
+ - Since Liquid Ticks: 186
+ - Queued Transactions: 0
+ - Joined: 11407 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, TINTED_GLASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, TINTED_GLASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, TINTED_GLASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5633.426539206142
+ - Y: 204.0
+ - Z: -14644.299400478714
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 38
+ - Transaction Ping: 78
+ - Server TPS: 20
+ - Sensitivity: 143
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 10.35 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 857
+ - Since Riptide Ticks: 856
+ - Flying Delay: 250
+ - Since Velocity Ticks: 207
+ - Since Firework Ticks: 856
+ - Ticks Existed: 757
+ - Since Vehicle Ticks: 756
+ - Since Liquid Ticks: 171
+ - Queued Transactions: 0
+ - Joined: 51 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, TINTED_GLASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, TINTED_GLASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, TINTED_GLASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5639.29902712704
+ - Y: 204.0
+ - Z: -14637.732425594833
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 16
+ - Transaction Ping: 86
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 14.45 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 289
+ - Since Riptide Ticks: 357
+ - Flying Delay: 48
+ - Since Velocity Ticks: 289
+ - Since Firework Ticks: 357
+ - Ticks Existed: 189
+ - Since Vehicle Ticks: 257
+ - Since Liquid Ticks: 257
+ - Queued Transactions: 1
+ - Joined: 17 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, TINTED_GLASS, TINTED_GLASS, TINTED_GLASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5638.296135669706
+ - Y: 230.0
+ - Z: -14640.208744675523
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 67
+ - Transaction Ping: 92
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 48.0 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 706
+ - Since Riptide Ticks: 90660
+ - Flying Delay: 49
+ - Since Velocity Ticks: 960
+ - Since Firework Ticks: 90660
+ - Ticks Existed: 104952
+ - Since Vehicle Ticks: 90560
+ - Since Liquid Ticks: 88
+ - Queued Transactions: 1
+ - Joined: 8944 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [SMOOTH_BASALT, SMOOTH_BASALT, SMOOTH_BASALT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, SMOOTH_BASALT, SMOOTH_BASALT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, SMOOTH_BASALT, SMOOTH_BASALT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5642.128817572378
+ - Y: 232.5
+ - Z: -14637.210166810777
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 16
+ - Transaction Ping: 79
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 27.35 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 547
+ - Since Riptide Ticks: 624
+ - Flying Delay: 49
+ - Since Velocity Ticks: 547
+ - Since Firework Ticks: 624
+ - Ticks Existed: 447
+ - Since Vehicle Ticks: 524
+ - Since Liquid Ticks: 148
+ - Queued Transactions: 0
+ - Joined: 23 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, SMOOTH_BASALT, AIR, AIR, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, AIR, AIR, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, AIR, AIR, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5645.810341314871
+ - Y: 232.5
+ - Z: -14638.270711021813
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 17
+ - Transaction Ping: 70
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 21.7 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 434
+ - Since Riptide Ticks: 520
+ - Flying Delay: 49
+ - Since Velocity Ticks: 434
+ - Since Firework Ticks: 520
+ - Ticks Existed: 334
+ - Since Vehicle Ticks: 420
+ - Since Liquid Ticks: 0
+ - Queued Transactions: 1
+ - Joined: 21 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, SMOOTH_BASALT, SMOOTH_BASALT, AIR, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, WATER, WATER, SMOOTH_BASALT, AIR, AIR, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, WATER, WATER, SMOOTH_BASALT, AIR, AIR, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5650.106356361807
+ - Y: 232.5
+ - Z: -14643.560958493816
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 16
+ - Transaction Ping: 75
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 22.35 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 447
+ - Since Riptide Ticks: 451
+ - Flying Delay: 50
+ - Since Velocity Ticks: 447
+ - Since Firework Ticks: 451
+ - Ticks Existed: 347
+ - Since Vehicle Ticks: 351
+ - Since Liquid Ticks: 86
+ - Queued Transactions: 0
+ - Joined: 23 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [SMOOTH_BASALT, SMOOTH_BASALT, AIR, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, SMOOTH_BASALT, AIR, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5650.969052659046
+ - Y: 232.5
+ - Z: -14647.279985711004
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 17
+ - Transaction Ping: 88
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 18.5 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 370
+ - Since Riptide Ticks: 425
+ - Flying Delay: 45
+ - Since Velocity Ticks: 370
+ - Since Firework Ticks: 425
+ - Ticks Existed: 270
+ - Since Vehicle Ticks: 325
+ - Since Liquid Ticks: 0
+ - Queued Transactions: 0
+ - Joined: 17 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [SMOOTH_BASALT, SMOOTH_BASALT, SMOOTH_BASALT, STONE_BRICK_SLAB, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5650.5443797775815
+ - Y: 232.5
+ - Z: -14651.004720121242
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 0
+ - Transaction Ping: 75
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 16.55 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 331
+ - Since Riptide Ticks: 392
+ - Flying Delay: 51
+ - Since Velocity Ticks: 331
+ - Since Firework Ticks: 392
+ - Ticks Existed: 231
+ - Since Vehicle Ticks: 292
+ - Since Liquid Ticks: 0
+ - Queued Transactions: 0
+ - Joined: 14 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, SMOOTH_BASALT, SMOOTH_BASALT, AIR, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, SMOOTH_BASALT, WATER, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5647.708756836149
+ - Y: 232.5
+ - Z: -14654.664857465961
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 17
+ - Transaction Ping: 81
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 16.25 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 325
+ - Since Riptide Ticks: 381
+ - Flying Delay: 50
+ - Since Velocity Ticks: 325
+ - Since Firework Ticks: 381
+ - Ticks Existed: 225
+ - Since Vehicle Ticks: 281
+ - Since Liquid Ticks: 0
+ - Queued Transactions: 0
+ - Joined: 15 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [SMOOTH_BASALT, SMOOTH_BASALT, WATER, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, WATER, WATER, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5642.947634683755
+ - Y: 232.5
+ - Z: -14658.23057729082
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 0
+ - Transaction Ping: 73
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 13.1 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 262
+ - Since Riptide Ticks: 331
+ - Flying Delay: 51
+ - Since Velocity Ticks: 262
+ - Since Firework Ticks: 331
+ - Ticks Existed: 162
+ - Since Vehicle Ticks: 231
+ - Since Liquid Ticks: 0
+ - Queued Transactions: 0
+ - Joined: 11 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, SMOOTH_BASALT, WATER, AIR, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, AIR, AIR, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, AIR, DIRT, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5634.228949863657
+ - Y: 232.5
+ - Z: -14639.123453341277
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 16
+ - Transaction Ping: 105
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 17.1 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 342
+ - Since Riptide Ticks: 405
+ - Flying Delay: 69
+ - Since Velocity Ticks: 342
+ - Since Firework Ticks: 405
+ - Ticks Existed: 242
+ - Since Vehicle Ticks: 305
+ - Since Liquid Ticks: 121
+ - Queued Transactions: 0
+ - Joined: 15 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, AIR, AIR, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, SMOOTH_BASALT, AIR, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5631.803206712951
+ - Y: 232.5
+ - Z: -14641.98426229224
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 16
+ - Transaction Ping: 81
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 21.8 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 436
+ - Since Riptide Ticks: 501
+ - Flying Delay: 50
+ - Since Velocity Ticks: 436
+ - Since Firework Ticks: 501
+ - Ticks Existed: 336
+ - Since Vehicle Ticks: 401
+ - Since Liquid Ticks: 0
+ - Queued Transactions: 0
+ - Joined: 20 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [WATER, WATER, SMOOTH_BASALT, AIR, AIR, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, SMOOTH_BASALT, AIR, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, SMOOTH_BASALT, AIR, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5630.298525059309
+ - Y: 232.5
+ - Z: -14647.12146448509
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 16
+ - Transaction Ping: 83
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 19.6 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 392
+ - Since Riptide Ticks: 446
+ - Flying Delay: 50
+ - Since Velocity Ticks: 392
+ - Since Firework Ticks: 446
+ - Ticks Existed: 292
+ - Since Vehicle Ticks: 346
+ - Since Liquid Ticks: 159
+ - Queued Transactions: 0
+ - Joined: 23 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, SMOOTH_BASALT, SMOOTH_BASALT, STONE_BRICK_SLAB, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5630.79231087248
+ - Y: 232.5
+ - Z: -14651.390861539794
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 26
+ - Transaction Ping: 82
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 16.25 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 325
+ - Since Riptide Ticks: 400
+ - Flying Delay: 48
+ - Since Velocity Ticks: 325
+ - Since Firework Ticks: 400
+ - Ticks Existed: 225
+ - Since Vehicle Ticks: 300
+ - Since Liquid Ticks: 145
+ - Queued Transactions: 1
+ - Joined: 15 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, SMOOTH_BASALT, AIR, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, SMOOTH_BASALT, AIR, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5633.192138318774
+ - Y: 232.5
+ - Z: -14654.370273922146
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 16
+ - Transaction Ping: 74
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 16.9 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 338
+ - Since Riptide Ticks: 375
+ - Flying Delay: 50
+ - Since Velocity Ticks: 338
+ - Since Firework Ticks: 375
+ - Ticks Existed: 238
+ - Since Vehicle Ticks: 275
+ - Since Liquid Ticks: 0
+ - Queued Transactions: 0
+ - Joined: 15 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, AIR, WATER, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, SMOOTH_BASALT, WATER, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5636.838879695225
+ - Y: 232.5
+ - Z: -14656.985074602304
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 0
+ - Transaction Ping: 83
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 13.2 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 264
+ - Since Riptide Ticks: 330
+ - Flying Delay: 49
+ - Since Velocity Ticks: 264
+ - Since Firework Ticks: 330
+ - Ticks Existed: 164
+ - Since Vehicle Ticks: 230
+ - Since Liquid Ticks: 0
+ - Queued Transactions: 0
+ - Joined: 11 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, WATER, WATER, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SMOOTH_BASALT, WATER, WATER, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5636.328930099567
+ - Y: 317.0
+ - Z: -14641.044229579094
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 76
+ - Transaction Ping: 86
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 423.85 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 3334
+ - Since Riptide Ticks: 205324
+ - Flying Delay: 49
+ - Since Velocity Ticks: 8477
+ - Since Firework Ticks: 205324
+ - Ticks Existed: 248390
+ - Since Vehicle Ticks: 205224
+ - Since Liquid Ticks: 0
+ - Queued Transactions: 1
+ - Joined: 47530 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DIRT, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WATER, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WATER, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5634.558756732967
+ - Y: 316.0
+ - Z: -14636.925603304753
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 17
+ - Transaction Ping: 71
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 16.75 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 335
+ - Since Riptide Ticks: 309
+ - Flying Delay: 50
+ - Since Velocity Ticks: 335
+ - Since Firework Ticks: 309
+ - Ticks Existed: 235
+ - Since Vehicle Ticks: 209
+ - Since Liquid Ticks: 209
+ - Queued Transactions: 1
+ - Joined: 22 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5632.419916639116
+ - Y: 316.0
+ - Z: -14637.136593136542
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 18
+ - Transaction Ping: 83
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 19.3 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 386
+ - Since Riptide Ticks: 427
+ - Flying Delay: 50
+ - Since Velocity Ticks: 386
+ - Since Firework Ticks: 427
+ - Ticks Existed: 286
+ - Since Vehicle Ticks: 327
+ - Since Liquid Ticks: 327
+ - Queued Transactions: 0
+ - Joined: 21 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DEEPSLATE_TILE_SLAB, MOSS_BLOCK, MOSS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE_TILE_SLAB, MOSS_BLOCK, MOSS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE_TILE_SLAB, MOSS_BLOCK, MOSS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5629.81048493592
+ - Y: 316.0
+ - Z: -14636.670762350159
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 23
+ - Transaction Ping: 81
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 20.35 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 407
+ - Since Riptide Ticks: 445
+ - Flying Delay: 33
+ - Since Velocity Ticks: 407
+ - Since Firework Ticks: 445
+ - Ticks Existed: 307
+ - Since Vehicle Ticks: 345
+ - Since Liquid Ticks: 345
+ - Queued Transactions: 0
+ - Joined: 21 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftMinecartHopper{inventory=org.bukkit.craftbukkit.v1_20_R1.inventory.CraftInventory@31ccba}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5626.961525499418
+ - Y: 316.0
+ - Z: -14636.524756418466
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 17
+ - Transaction Ping: 103
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 21.15 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 423
+ - Since Riptide Ticks: 480
+ - Flying Delay: 69
+ - Since Velocity Ticks: 423
+ - Since Firework Ticks: 480
+ - Ticks Existed: 323
+ - Since Vehicle Ticks: 380
+ - Since Liquid Ticks: 380
+ - Queued Transactions: 0
+ - Joined: 21 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5624.287606574426
+ - Y: 316.0
+ - Z: -14636.566628984936
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 16
+ - Transaction Ping: 91
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 23.5 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 470
+ - Since Riptide Ticks: 524
+ - Flying Delay: 48
+ - Since Velocity Ticks: 470
+ - Since Firework Ticks: 524
+ - Ticks Existed: 370
+ - Since Vehicle Ticks: 424
+ - Since Liquid Ticks: 424
+ - Queued Transactions: 1
+ - Joined: 23 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5621.652037544149
+ - Y: 316.0
+ - Z: -14636.685630410213
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 16
+ - Transaction Ping: 82
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 24.85 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 497
+ - Since Riptide Ticks: 559
+ - Flying Delay: 403
+ - Since Velocity Ticks: 497
+ - Since Firework Ticks: 559
+ - Ticks Existed: 397
+ - Since Vehicle Ticks: 459
+ - Since Liquid Ticks: 459
+ - Queued Transactions: 0
+ - Joined: 24 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5621.773366539555
+ - Y: 316.0
+ - Z: -14639.915466027313
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 17
+ - Transaction Ping: 83
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 26.25 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 525
+ - Since Riptide Ticks: 548
+ - Flying Delay: 50
+ - Since Velocity Ticks: 525
+ - Since Firework Ticks: 548
+ - Ticks Existed: 425
+ - Since Vehicle Ticks: 448
+ - Since Liquid Ticks: 448
+ - Queued Transactions: 0
+ - Joined: 24 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5625.326126135907
+ - Y: 316.0
+ - Z: -14639.78001384528
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 29
+ - Transaction Ping: 77
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 29.85 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 597
+ - Since Riptide Ticks: 601
+ - Flying Delay: 50
+ - Since Velocity Ticks: 597
+ - Since Firework Ticks: 601
+ - Ticks Existed: 497
+ - Since Vehicle Ticks: 501
+ - Since Liquid Ticks: 501
+ - Queued Transactions: 0
+ - Joined: 30 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5629.393997900017
+ - Y: 316.0
+ - Z: -14639.789203535365
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 17
+ - Transaction Ping: 75
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 20.6 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 412
+ - Since Riptide Ticks: 430
+ - Flying Delay: 50
+ - Since Velocity Ticks: 412
+ - Since Firework Ticks: 430
+ - Ticks Existed: 312
+ - Since Vehicle Ticks: 330
+ - Since Liquid Ticks: 330
+ - Queued Transactions: 1
+ - Joined: 19 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5632.9558033125595
+ - Y: 316.0
+ - Z: -14640.151484743896
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 17
+ - Transaction Ping: 80
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 16.8 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 336
+ - Since Riptide Ticks: 330
+ - Flying Delay: 50
+ - Since Velocity Ticks: 336
+ - Since Firework Ticks: 330
+ - Ticks Existed: 236
+ - Since Vehicle Ticks: 230
+ - Since Liquid Ticks: 230
+ - Queued Transactions: 0
+ - Joined: 15 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5634.925154577398
+ - Y: 317.0
+ - Z: -14641.671681079652
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 19
+ - Transaction Ping: 82
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 22.2 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 444
+ - Since Riptide Ticks: 355
+ - Flying Delay: 54
+ - Since Velocity Ticks: 444
+ - Since Firework Ticks: 355
+ - Ticks Existed: 344
+ - Since Vehicle Ticks: 255
+ - Since Liquid Ticks: 31
+ - Queued Transactions: 0
+ - Joined: 25 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5634.284546978571
+ - Y: 317.0
+ - Z: -14640.976203226883
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 0
+ - Transaction Ping: 87
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 12.35 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 247
+ - Since Riptide Ticks: 255
+ - Flying Delay: 50
+ - Since Velocity Ticks: 247
+ - Since Firework Ticks: 255
+ - Ticks Existed: 147
+ - Since Vehicle Ticks: 155
+ - Since Liquid Ticks: 4
+ - Queued Transactions: 0
+ - Joined: 13 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5621.262711419448
+ - Y: 315.0
+ - Z: -14636.558681152253
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 70
+ - Transaction Ping: 76
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 413.7 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 8394
+ - Since Riptide Ticks: 37700
+ - Flying Delay: 50
+ - Since Velocity Ticks: 8274
+ - Since Firework Ticks: 37700
+ - Ticks Existed: 43741
+ - Since Vehicle Ticks: 37600
+ - Since Liquid Ticks: 181
+ - Queued Transactions: 0
+ - Joined: 3340 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5623.7865187220605
+ - Y: 315.0
+ - Z: -14636.35866277372
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 16
+ - Transaction Ping: 73
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 24.25 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 485
+ - Since Riptide Ticks: 517
+ - Flying Delay: 50
+ - Since Velocity Ticks: 485
+ - Since Firework Ticks: 517
+ - Ticks Existed: 385
+ - Since Vehicle Ticks: 417
+ - Since Liquid Ticks: 417
+ - Queued Transactions: 1
+ - Joined: 22 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5626.969350424617
+ - Y: 315.0
+ - Z: -14636.528860167622
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 16
+ - Transaction Ping: 81
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 25.8 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 516
+ - Since Riptide Ticks: 538
+ - Flying Delay: 49
+ - Since Velocity Ticks: 516
+ - Since Firework Ticks: 538
+ - Ticks Existed: 416
+ - Since Vehicle Ticks: 438
+ - Since Liquid Ticks: 438
+ - Queued Transactions: 0
+ - Joined: 23 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5630.7180158606225
+ - Y: 315.0
+ - Z: -14637.0536881416
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 16
+ - Transaction Ping: 67
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 19.6 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 392
+ - Since Riptide Ticks: 437
+ - Flying Delay: 26
+ - Since Velocity Ticks: 392
+ - Since Firework Ticks: 437
+ - Ticks Existed: 292
+ - Since Vehicle Ticks: 337
+ - Since Liquid Ticks: 337
+ - Queued Transactions: 0
+ - Joined: 17 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DEEPSLATE_TILE_SLAB, MOSS_BLOCK, MOSS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE_TILE_SLAB, MOSS_BLOCK, MOSS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE_TILE_SLAB, MOSS_BLOCK, MOSS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5633.563297326978
+ - Y: 315.0
+ - Z: -14637.066030704951
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 26
+ - Transaction Ping: 78
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 20.05 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 401
+ - Since Riptide Ticks: 428
+ - Flying Delay: 49
+ - Since Velocity Ticks: 401
+ - Since Firework Ticks: 428
+ - Ticks Existed: 301
+ - Since Vehicle Ticks: 328
+ - Since Liquid Ticks: 131
+ - Queued Transactions: 0
+ - Joined: 19 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DEEPSLATE_TILE_SLAB, MOSS_BLOCK, MOSS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE_TILE_SLAB, MOSS_BLOCK, MOSS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE_TILE_SLAB, MOSS_BLOCK, MOSS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5635.435727548555
+ - Y: 315.0
+ - Z: -14636.70765885621
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 20
+ - Transaction Ping: 81
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 17.5 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 350
+ - Since Riptide Ticks: 393
+ - Flying Delay: 50
+ - Since Velocity Ticks: 350
+ - Since Firework Ticks: 393
+ - Ticks Existed: 250
+ - Since Vehicle Ticks: 293
+ - Since Liquid Ticks: 293
+ - Queued Transactions: 0
+ - Joined: 16 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5623.855872902739
+ - Y: 314.5
+ - Z: -14638.737822045485
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 32
+ - Transaction Ping: 81
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 31.85 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 637
+ - Since Riptide Ticks: 637
+ - Flying Delay: 49
+ - Since Velocity Ticks: 637
+ - Since Firework Ticks: 637
+ - Ticks Existed: 537
+ - Since Vehicle Ticks: 537
+ - Since Liquid Ticks: 537
+ - Queued Transactions: 1
+ - Joined: 31 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, POWERED_RAIL, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, MOSS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, POWERED_RAIL, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, MOSS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, POWERED_RAIL, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, MOSS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5627.258488664791
+ - Y: 315.0
+ - Z: -14639.762504149725
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 33
+ - Transaction Ping: 69
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 21.45 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 429
+ - Since Riptide Ticks: 456
+ - Flying Delay: 51
+ - Since Velocity Ticks: 429
+ - Since Firework Ticks: 456
+ - Ticks Existed: 329
+ - Since Vehicle Ticks: 356
+ - Since Liquid Ticks: 356
+ - Queued Transactions: 0
+ - Joined: 20 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5631.044035705213
+ - Y: 315.0
+ - Z: -14639.854460080283
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 16
+ - Transaction Ping: 68
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 17.1 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 342
+ - Since Riptide Ticks: 362
+ - Flying Delay: 51
+ - Since Velocity Ticks: 342
+ - Since Firework Ticks: 362
+ - Ticks Existed: 242
+ - Since Vehicle Ticks: 262
+ - Since Liquid Ticks: 262
+ - Queued Transactions: 0
+ - Joined: 17 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5632.853233948786
+ - Y: 315.0
+ - Z: -14640.058157280999
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 0
+ - Transaction Ping: 70
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 14.05 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 281
+ - Since Riptide Ticks: 296
+ - Flying Delay: 51
+ - Since Velocity Ticks: 281
+ - Since Firework Ticks: 296
+ - Ticks Existed: 181
+ - Since Vehicle Ticks: 196
+ - Since Liquid Ticks: 196
+ - Queued Transactions: 1
+ - Joined: 13 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5635.239129952747
+ - Y: 315.0
+ - Z: -14640.08627881373
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 0
+ - Transaction Ping: 154
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 12.9 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 258
+ - Since Riptide Ticks: 265
+ - Flying Delay: 0
+ - Since Velocity Ticks: 258
+ - Since Firework Ticks: 265
+ - Ticks Existed: 158
+ - Since Vehicle Ticks: 165
+ - Since Liquid Ticks: 165
+ - Queued Transactions: 1
+ - Joined: 11 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DIRT, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5636.306420177077
+ - Y: 315.0
+ - Z: -14640.13433020289
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 0
+ - Transaction Ping: 86
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 12.3 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 246
+ - Since Riptide Ticks: 252
+ - Flying Delay: 51
+ - Since Velocity Ticks: 246
+ - Since Firework Ticks: 252
+ - Ticks Existed: 146
+ - Since Vehicle Ticks: 152
+ - Since Liquid Ticks: 152
+ - Queued Transactions: 1
+ - Joined: 10 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, MOSS_BLOCK, DEEPSLATE_TILE_SLAB, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ toshkomega was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 92.27284232676533
+ - Y: 88.03551288311476
+ - Z: -5700.383490600828
+
+Information:
+ - UUID: 2e2d4386-8290-4077-b6ca-dad691819211
+ - Keep Alive Ping: 568
+ - Transaction Ping: 182
+ - Server TPS: 20
+ - Sensitivity: 62
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 7.55 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 2220
+ - Since Riptide Ticks: 2652
+ - Flying Delay: 28
+ - Since Velocity Ticks: 151
+ - Since Firework Ticks: 2652
+ - Ticks Existed: 2769
+ - Since Vehicle Ticks: 2552
+ - Since Liquid Ticks: 1259
+ - Queued Transactions: 0
+ - Joined: 263 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ toshkomega was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -64.39264092770559
+ - Y: 97.02422686610443
+ - Z: -5841.702349320472
+
+Information:
+ - UUID: 2e2d4386-8290-4077-b6ca-dad691819211
+ - Keep Alive Ping: 78
+ - Transaction Ping: 180
+ - Server TPS: 20
+ - Sensitivity: 62
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 38.05 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 761
+ - Since Riptide Ticks: 850
+ - Flying Delay: 46
+ - Since Velocity Ticks: 761
+ - Since Firework Ticks: 850
+ - Ticks Existed: 661
+ - Since Vehicle Ticks: 750
+ - Since Liquid Ticks: 750
+ - Queued Transactions: 1
+ - Joined: 41 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ toshkomega was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -20.34848670249255
+ - Y: 73.7077021030264
+ - Z: -5676.795588798636
+
+Information:
+ - UUID: 2e2d4386-8290-4077-b6ca-dad691819211
+ - Keep Alive Ping: 877
+ - Transaction Ping: 236
+ - Server TPS: 20
+ - Sensitivity: 62
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 21.7 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 1145
+ - Since Riptide Ticks: 1505
+ - Flying Delay: 52
+ - Since Velocity Ticks: 434
+ - Since Firework Ticks: 1505
+ - Ticks Existed: 1492
+ - Since Vehicle Ticks: 1405
+ - Since Liquid Ticks: 102
+ - Queued Transactions: 1
+ - Joined: 132 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ toshkomega was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 2.6734996510225173
+ - Y: 74.40095089944344
+ - Z: -6211.290586083726
+
+Information:
+ - UUID: 2e2d4386-8290-4077-b6ca-dad691819211
+ - Keep Alive Ping: 350
+ - Transaction Ping: 189
+ - Server TPS: 20
+ - Sensitivity: 62
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 159.95 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 3503
+ - Since Riptide Ticks: 3302
+ - Flying Delay: 49
+ - Since Velocity Ticks: 3199
+ - Since Firework Ticks: 3302
+ - Ticks Existed: 3403
+ - Since Vehicle Ticks: 3202
+ - Since Liquid Ticks: 785
+ - Queued Transactions: 1
+ - Joined: 270 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ toshkomega was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 42.014184833024096
+ - Y: 96.24918707874468
+ - Z: -6359.123699990351
+
+Information:
+ - UUID: 2e2d4386-8290-4077-b6ca-dad691819211
+ - Keep Alive Ping: 131
+ - Transaction Ping: 183
+ - Server TPS: 20
+ - Sensitivity: 62
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 55.6 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 1112
+ - Since Riptide Ticks: 1086
+ - Flying Delay: 49
+ - Since Velocity Ticks: 1112
+ - Since Firework Ticks: 1086
+ - Ticks Existed: 1012
+ - Since Vehicle Ticks: 986
+ - Since Liquid Ticks: 986
+ - Queued Transactions: 1
+ - Joined: 84 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ toshkomega was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 39.957786064238334
+ - Y: 71.62595791899085
+ - Z: -6416.574266041988
+
+Information:
+ - UUID: 2e2d4386-8290-4077-b6ca-dad691819211
+ - Keep Alive Ping: 0
+ - Transaction Ping: 3882
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 13.2 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 264
+ - Since Riptide Ticks: 364
+ - Flying Delay: 49
+ - Since Velocity Ticks: 264
+ - Since Firework Ticks: 364
+ - Ticks Existed: 164
+ - Since Vehicle Ticks: 264
+ - Since Liquid Ticks: 264
+ - Queued Transactions: 15
+ - Joined: 8 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ toshkomega was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -282.2071853345424
+ - Y: 100.77681309353547
+ - Z: -6388.098245345042
+
+Information:
+ - UUID: 2e2d4386-8290-4077-b6ca-dad691819211
+ - Keep Alive Ping: 174
+ - Transaction Ping: 165
+ - Server TPS: 20
+ - Sensitivity: 62
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 4.9 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 5495
+ - Since Riptide Ticks: 5215
+ - Flying Delay: 51
+ - Since Velocity Ticks: 98
+ - Since Firework Ticks: 5215
+ - Ticks Existed: 5395
+ - Since Vehicle Ticks: 5115
+ - Since Liquid Ticks: 1272
+ - Queued Transactions: 1
+ - Joined: 415 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=SolandMoon}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ toshkomega was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -323.6029381662235
+ - Y: 73.24918707874468
+ - Z: -6363.894458307512
+
+Information:
+ - UUID: 2e2d4386-8290-4077-b6ca-dad691819211
+ - Keep Alive Ping: 75
+ - Transaction Ping: 176
+ - Server TPS: 20
+ - Sensitivity: 62
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 29.8 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 596
+ - Since Riptide Ticks: 601
+ - Flying Delay: 53
+ - Since Velocity Ticks: 596
+ - Since Firework Ticks: 601
+ - Ticks Existed: 496
+ - Since Vehicle Ticks: 501
+ - Since Liquid Ticks: 501
+ - Queued Transactions: 1
+ - Joined: 41 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [SNOW, SNOW, SNOW, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SNOW, SNOW, SNOW, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SNOW, SNOW, SNOW, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=SolandMoon}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ jacktheallay was punished for Kill Aura (Type J) ]--------------
+
+Location:
+ - World: world_the_end
+ - X: 230.30000001192093
+ - Y: 40.0
+ - Z: 0.898413645223566
+
+Information:
+ - UUID: 83b7672b-fc0c-431e-a289-88b77d1eaa15
+ - Keep Alive Ping: 91
+ - Transaction Ping: 101
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 61.2 seconds ago
+
+Total Violations: 10
+ - Combat Violations: 10
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1064
+ - Since Riptide Ticks: 141605
+ - Flying Delay: 1004
+ - Since Velocity Ticks: 1224
+ - Since Firework Ticks: 141605
+ - Ticks Existed: 174493
+ - Since Vehicle Ticks: 80444
+ - Since Liquid Ticks: 985
+ - Queued Transactions: 1
+ - Joined: 14224 seconds ago
+
+All Violations:
+ - Kill Aura (Type J) [VL: 10] (Attack frequency.)
+
+Blocks Nearby: [DARK_OAK_PLANKS, DARK_OAK_PLANKS, DARK_OAK_PLANKS, AIR, AIR, AIR, AIR, AIR, POLISHED_DEEPSLATE_SLAB, COBBLESTONE, COBBLESTONE, COBBLESTONE, DARK_OAK_PLANKS, DARK_OAK_PLANKS, DARK_OAK_PLANKS, MOSS_CARPET, AIR, AIR, AIR, AIR, AIR, COBBLESTONE, COBBLESTONE, COBBLESTONE, DARK_OAK_PLANKS, DARK_OAK_PLANKS, DARK_OAK_PLANKS, MOSS_CARPET, MOSS_CARPET, AIR, AIR, AIR, AIR, COBBLESTONE, COBBLESTONE, COBBLESTONE]
+Entities Nearby: [CraftEnderman, CraftEnderman, CraftEnderman, CraftEnderman, CraftEnderman, CraftEnderman, CraftEnderman, CraftEnderman]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ jacktheallay was punished for Kill Aura (Type J) ]--------------
+
+Location:
+ - World: world_the_end
+ - X: 231.8231215346039
+ - Y: 40.0625
+ - Z: 3.2755235710455386
+
+Information:
+ - UUID: 83b7672b-fc0c-431e-a289-88b77d1eaa15
+ - Keep Alive Ping: 85
+ - Transaction Ping: 99
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 73.7 seconds ago
+
+Total Violations: 10
+ - Combat Violations: 10
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1474
+ - Since Riptide Ticks: 1337
+ - Flying Delay: 990
+ - Since Velocity Ticks: 1474
+ - Since Firework Ticks: 1337
+ - Ticks Existed: 1374
+ - Since Vehicle Ticks: 1237
+ - Since Liquid Ticks: 1237
+ - Queued Transactions: 0
+ - Joined: 149 seconds ago
+
+All Violations:
+ - Kill Aura (Type J) [VL: 10] (Attack frequency.)
+
+Blocks Nearby: [DARK_OAK_PLANKS, DARK_OAK_PLANKS, DARK_OAK_PLANKS, AIR, MOSS_CARPET, MOSS_CARPET, POLISHED_DEEPSLATE_SLAB, POLISHED_DEEPSLATE_SLAB, POLISHED_DEEPSLATE_SLAB, COBBLESTONE, COBBLESTONE, COBBLESTONE, DARK_OAK_PLANKS, DARK_OAK_PLANKS, DARK_OAK_PLANKS, MOSS_CARPET, MOSS_CARPET, MOSS_CARPET, AIR, AIR, AIR, COBBLESTONE, COBBLESTONE, COBBLESTONE, DARK_OAK_PLANKS, DARK_OAK_PLANKS, DARK_OAK_PLANKS, MOSS_CARPET, AIR, MOSS_CARPET, AIR, AIR, AIR, COBBLESTONE, COBBLESTONE, COBBLESTONE]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ TheCrew20 was punished for Sprint (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -10355.89204454481
+ - Y: 77.0
+ - Z: 13896.799101517277
+
+Information:
+ - UUID: 884bb33a-e637-40ce-89ff-ca87d142c43c
+ - Keep Alive Ping: 46
+ - Transaction Ping: 84
+ - Server TPS: 20
+ - Sensitivity: -32
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 512.1 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1415
+ - Since Riptide Ticks: 15480
+ - Flying Delay: 71
+ - Since Velocity Ticks: 10242
+ - Since Firework Ticks: 15480
+ - Ticks Existed: 15823
+ - Since Vehicle Ticks: 15380
+ - Since Liquid Ticks: 6515
+ - Queued Transactions: 0
+ - Joined: 970 seconds ago
+
+All Violations:
+ - Sprint (Type A) [VL: 15] (Invalid sprint direction.)
+ - Bad Packets (Type 6) [VL: 11] (Invalid Block Dig packets.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5140.076754328288
+ - Y: 58.0
+ - Z: -12847.450967149905
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 67
+ - Transaction Ping: 67
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 8.2 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 4555
+ - Since Riptide Ticks: 271688
+ - Flying Delay: 652
+ - Since Velocity Ticks: 164
+ - Since Firework Ticks: 29720
+ - Ticks Existed: 313460
+ - Since Vehicle Ticks: 132081
+ - Since Liquid Ticks: 241
+ - Queued Transactions: 1
+ - Joined: 89566 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [STONE, TINTED_GLASS, AIR, STONE, AIR, AIR, STONE, AIR, AIR, STONE, AIR, AIR, STONE, TINTED_GLASS, DARK_OAK_FENCE_GATE, STONE, AIR, AIR, STONE, AIR, AIR, STONE, AIR, AIR, STONE, TINTED_GLASS, AIR, STONE, AIR, AIR, STONE, AIR, AIR, STONE, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [FAST_DIGGING:(116t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5138.324662039173
+ - Y: 57.0
+ - Z: -12843.4390526972
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 68
+ - Transaction Ping: 82
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 16.8 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 2248
+ - Since Riptide Ticks: 22142
+ - Flying Delay: 29
+ - Since Velocity Ticks: 336
+ - Since Firework Ticks: 20163
+ - Ticks Existed: 28494
+ - Since Vehicle Ticks: 22042
+ - Since Liquid Ticks: 407
+ - Queued Transactions: 0
+ - Joined: 2007 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, ANDESITE, AIR, DARK_OAK_FENCE_GATE, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5136.292405491181
+ - Y: 57.0
+ - Z: -12839.244159763308
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 29
+ - Transaction Ping: 81
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 15.1 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 816
+ - Since Riptide Ticks: 695
+ - Flying Delay: 51
+ - Since Velocity Ticks: 302
+ - Since Firework Ticks: 695
+ - Ticks Existed: 716
+ - Since Vehicle Ticks: 595
+ - Since Liquid Ticks: 595
+ - Queued Transactions: 0
+ - Joined: 44 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, ANDESITE, AIR, DARK_OAK_FENCE_GATE, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5138.369470778283
+ - Y: 57.0
+ - Z: -12837.37754574382
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 45
+ - Transaction Ping: 73
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 47.75 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 1269
+ - Since Riptide Ticks: 1164
+ - Flying Delay: 50
+ - Since Velocity Ticks: 955
+ - Since Firework Ticks: 1164
+ - Ticks Existed: 1169
+ - Since Vehicle Ticks: 1064
+ - Since Liquid Ticks: 769
+ - Queued Transactions: 1
+ - Joined: 69 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, ANDESITE, AIR, DARK_OAK_FENCE_GATE, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [FAST_DIGGING:(11t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5144.424574846108
+ - Y: 57.0
+ - Z: -12841.533030578872
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 28
+ - Transaction Ping: 82
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 16.5 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 634
+ - Since Riptide Ticks: 601
+ - Flying Delay: 50
+ - Since Velocity Ticks: 330
+ - Since Firework Ticks: 601
+ - Ticks Existed: 534
+ - Since Vehicle Ticks: 501
+ - Since Liquid Ticks: 256
+ - Queued Transactions: 1
+ - Joined: 31 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, ANDESITE, AIR, DARK_OAK_FENCE_GATE, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [FAST_DIGGING:(21t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5140.423828680745
+ - Y: 57.0
+ - Z: -12835.316686554517
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 45
+ - Transaction Ping: 76
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 6.55 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 1224
+ - Since Riptide Ticks: 1162
+ - Flying Delay: 38
+ - Since Velocity Ticks: 131
+ - Since Firework Ticks: 1162
+ - Ticks Existed: 1124
+ - Since Vehicle Ticks: 1062
+ - Since Liquid Ticks: 807
+ - Queued Transactions: 1
+ - Joined: 63 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, ANDESITE, AIR, DARK_OAK_FENCE_GATE, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5142.446393687771
+ - Y: 57.0
+ - Z: -12839.448592124705
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 16
+ - Transaction Ping: 81
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 28.35 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 567
+ - Since Riptide Ticks: 542
+ - Flying Delay: 50
+ - Since Velocity Ticks: 567
+ - Since Firework Ticks: 542
+ - Ticks Existed: 467
+ - Since Vehicle Ticks: 442
+ - Since Liquid Ticks: 442
+ - Queued Transactions: 0
+ - Joined: 29 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, ANDESITE, AIR, DARK_OAK_FENCE_GATE, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [FAST_DIGGING:(24t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5144.288060797472
+ - Y: 57.0
+ - Z: -12837.427436641592
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 38
+ - Transaction Ping: 81
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 46.95 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 939
+ - Since Riptide Ticks: 845
+ - Flying Delay: 50
+ - Since Velocity Ticks: 939
+ - Since Firework Ticks: 845
+ - Ticks Existed: 839
+ - Since Vehicle Ticks: 745
+ - Since Liquid Ticks: 522
+ - Queued Transactions: 0
+ - Joined: 52 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, ANDESITE, AIR, DARK_OAK_FENCE_GATE, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [FAST_DIGGING:(154t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5146.878146899735
+ - Y: 58.0
+ - Z: -12837.081792737625
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 18
+ - Transaction Ping: 75
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 22.7 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 454
+ - Since Riptide Ticks: 452
+ - Flying Delay: 49
+ - Since Velocity Ticks: 454
+ - Since Firework Ticks: 452
+ - Ticks Existed: 354
+ - Since Vehicle Ticks: 352
+ - Since Liquid Ticks: 352
+ - Queued Transactions: 0
+ - Joined: 23 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, TINTED_GLASS, TINTED_GLASS, TINTED_GLASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DARK_OAK_FENCE_GATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [FAST_DIGGING:(158t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ Mini_Minister was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -19433.176667079784
+ - Y: 117.21791818148911
+ - Z: -2627.185444353636
+
+Information:
+ - UUID: ebb40b21-9f98-4a8a-9aad-a2ba4ab1ea5f
+ - Keep Alive Ping: 823
+ - Transaction Ping: 66
+ - Server TPS: 20
+ - Sensitivity: 119
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 8.25 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1468
+ - Since Riptide Ticks: 3575
+ - Flying Delay: 0
+ - Since Velocity Ticks: 165
+ - Since Firework Ticks: 3575
+ - Ticks Existed: 3803
+ - Since Vehicle Ticks: 3475
+ - Since Liquid Ticks: 134
+ - Queued Transactions: 1
+ - Joined: 265 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Schorspels8 was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: 11563.094992788647
+ - Y: 66.0
+ - Z: -3730.4393918014953
+
+Information:
+ - UUID: 6c8c7a24-1e4e-41f5-9102-0a719e57a50d
+ - Keep Alive Ping: 138
+ - Transaction Ping: 160
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 18.25 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 6760
+ - Since Riptide Ticks: 17991
+ - Flying Delay: 52
+ - Since Velocity Ticks: 365
+ - Since Firework Ticks: 17991
+ - Ticks Existed: 19197
+ - Since Vehicle Ticks: 17891
+ - Since Liquid Ticks: 17891
+ - Queued Transactions: 1
+ - Joined: 1228 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_PLANKS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_PLANKS, AIR, AIR, SPRUCE_PLANKS, AIR, AIR, SPRUCE_PLANKS, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ alkalinekats was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: 12094.931970842463
+ - Y: 63.9375
+ - Z: -5318.877578430195
+
+Information:
+ - UUID: be15ce4b-6d9a-4c01-9b75-c2fcba764e5f
+ - Keep Alive Ping: 271
+ - Transaction Ping: 136
+ - Server TPS: 20
+ - Sensitivity: 199
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 1037.65 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 16132
+ - Since Riptide Ticks: 33437
+ - Flying Delay: 43
+ - Since Velocity Ticks: 20753
+ - Since Firework Ticks: 33437
+ - Ticks Existed: 34736
+ - Since Vehicle Ticks: 15630
+ - Since Liquid Ticks: 2127
+ - Queued Transactions: 1
+ - Joined: 2283 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DIRT, DIRT, DIRT, FARMLAND, FARMLAND, FARMLAND, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, DIRT, DIRT, FARMLAND, FARMLAND, FARMLAND, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, DIRT, DIRT, FARMLAND, FARMLAND, FARMLAND, AIR, BEETROOTS, BEETROOTS, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ AceOfSpades_YT was punished for Bad Packets (Type 1) ]--------------
+
+Location:
+ - World: world
+ - X: 20938.49914053536
+ - Y: 64.0
+ - Z: -3556.1249233728936
+
+Information:
+ - UUID: 5e4624d4-40d1-4497-98db-5a26fe8c0639
+ - Keep Alive Ping: 125
+ - Transaction Ping: 126
+ - Server TPS: 20
+ - Sensitivity: -34
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 160.8 seconds ago
+
+Total Violations: 29
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 29
+
+Misc Information:
+ - Since Teleport Ticks: 3164
+ - Since Riptide Ticks: 40100
+ - Flying Delay: 997
+ - Since Velocity Ticks: 3216
+ - Since Firework Ticks: 40100
+ - Ticks Existed: 44652
+ - Since Vehicle Ticks: 40000
+ - Since Liquid Ticks: 2408
+ - Queued Transactions: 1
+ - Joined: 3305 seconds ago
+
+All Violations:
+ - Bad Packets (Type 1) [VL: 15] (Sent too many Start Dig packets.)
+ - Bad Packets (Type 2) [VL: 14] (Sent too many Stop Dig packets.)
+ - Bad Packets (Type 6) [VL: 46] (Invalid Block Dig packets.)
+
+Blocks Nearby: [STONE, STONE, STONE, DIRT, STONE, STONE, DIRT, DIRT, STONE, DIRT, DIRT, DIRT, STONE, STONE, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, STONE, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftItem]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ AceOfSpades_YT was punished for Speed (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: 20904.495302615036
+ - Y: 64.0
+ - Z: -3500.687950491831
+
+Information:
+ - UUID: 5e4624d4-40d1-4497-98db-5a26fe8c0639
+ - Keep Alive Ping: 175
+ - Transaction Ping: 122
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 7.6 seconds ago
+
+Total Violations: 33
+ - Combat Violations: 0
+ - Movement Violations: 33
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 150
+ - Since Riptide Ticks: 23073
+ - Flying Delay: 61
+ - Since Velocity Ticks: 152
+ - Since Firework Ticks: 23073
+ - Ticks Existed: 25218
+ - Since Vehicle Ticks: 22973
+ - Since Liquid Ticks: 54
+ - Queued Transactions: 0
+ - Joined: 1767 seconds ago
+
+All Violations:
+ - Flight (Type B) [VL: 4] (Invalid Y-Axis movement.)
+ - Speed (Type A) [VL: 3] (Invalid friction.)
+ - Speed (Type C) [VL: 15] (Moving too quickly in the air.)
+ - Strafe (Type A) [VL: 11] (Moving incorrectly in the air.)
+
+Blocks Nearby: [GRASS_BLOCK, AIR, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, AIR, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ AceOfSpades_YT was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 20874.253816996268
+ - Y: 18.071600004434586
+ - Z: -3519.5356499690197
+
+Information:
+ - UUID: 5e4624d4-40d1-4497-98db-5a26fe8c0639
+ - Keep Alive Ping: 49
+ - Transaction Ping: 126
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 9.45 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 315
+ - Since Riptide Ticks: 556
+ - Flying Delay: 49
+ - Since Velocity Ticks: 189
+ - Since Firework Ticks: 556
+ - Ticks Existed: 385
+ - Since Vehicle Ticks: 456
+ - Since Liquid Ticks: 275
+ - Queued Transactions: 0
+ - Joined: 36 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [STONE, AIR, STONE, STONE, AIR, STONE, STONE, AIR, STONE, STONE, STONE, STONE, STONE, STONE, STONE, STONE, AIR, STONE, STONE, AIR, AIR, STONE, STONE, AIR, STONE, AIR, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ AceOfSpades_YT was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 20836.76261179966
+ - Y: 7.116368047601699
+ - Z: -3509.699999988079
+
+Information:
+ - UUID: 5e4624d4-40d1-4497-98db-5a26fe8c0639
+ - Keep Alive Ping: 67
+ - Transaction Ping: 121
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 6.3 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 1115
+ - Since Riptide Ticks: 1181
+ - Flying Delay: 52
+ - Since Velocity Ticks: 126
+ - Since Firework Ticks: 1181
+ - Ticks Existed: 1015
+ - Since Vehicle Ticks: 1081
+ - Since Liquid Ticks: 32
+ - Queued Transactions: 1
+ - Joined: 53 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [DIRT, DIRT, DIRT, STONE, AIR, DIRT, STONE, AIR, STONE, DIRT, AIR, DIRT, DIRT, DIRT, DIRT, STONE, AIR, STONE, DIRT, AIR, STONE, DIRT, DIRT, STONE, STONE, AIR, DEEPSLATE, DEEPSLATE, AIR, STONE, STONE, AIR, STONE, DIRT, DIRT, STONE]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ AceOfSpades_YT was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 20861.522071666815
+ - Y: 21.200000047683716
+ - Z: -3488.1001725579176
+
+Information:
+ - UUID: 5e4624d4-40d1-4497-98db-5a26fe8c0639
+ - Keep Alive Ping: 51
+ - Transaction Ping: 118
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 24.3 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 475
+ - Since Riptide Ticks: 758
+ - Flying Delay: 51
+ - Since Velocity Ticks: 486
+ - Since Firework Ticks: 758
+ - Ticks Existed: 602
+ - Since Vehicle Ticks: 658
+ - Since Liquid Ticks: 379
+ - Queued Transactions: 1
+ - Joined: 36 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [OAK_PLANKS, CAVE_AIR, OAK_PLANKS, OAK_PLANKS, CAVE_AIR, OAK_PLANKS, OAK_PLANKS, CAVE_AIR, OAK_PLANKS, STONE, STONE, STONE, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, STONE, STONE, STONE, OAK_PLANKS, CAVE_AIR, OAK_PLANKS, OAK_PLANKS, CAVE_AIR, OAK_PLANKS, OAK_PLANKS, CAVE_AIR, OAK_PLANKS, STONE, STONE, STONE]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ AceOfSpades_YT was punished for Motion (Type D) ]--------------
+
+Location:
+ - World: world
+ - X: 20848.438156242733
+ - Y: -1.0
+ - Z: -3511.699999988079
+
+Information:
+ - UUID: 5e4624d4-40d1-4497-98db-5a26fe8c0639
+ - Keep Alive Ping: 97
+ - Transaction Ping: 116
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 8.2 seconds ago
+
+Total Violations: 19
+ - Combat Violations: 2
+ - Movement Violations: 15
+ - Player Violations: 2
+
+Misc Information:
+ - Since Teleport Ticks: 2095
+ - Since Riptide Ticks: 2012
+ - Flying Delay: 0
+ - Since Velocity Ticks: 164
+ - Since Firework Ticks: 2012
+ - Ticks Existed: 1995
+ - Since Vehicle Ticks: 1912
+ - Since Liquid Ticks: 147
+ - Queued Transactions: 0
+ - Joined: 108 seconds ago
+
+All Violations:
+ - Kill Aura (Type A) [VL: 2] (Post UseEntity packets.)
+ - Motion (Type D) [VL: 15] (Too small Y-axis change.)
+ - Bad Packets (Type A) [VL: 2] (Spoofed abilities packets.)
+
+Blocks Nearby: [DRIPSTONE_BLOCK, OAK_PLANKS, OAK_PLANKS, DRIPSTONE_BLOCK, CAVE_AIR, CAVE_AIR, DRIPSTONE_BLOCK, CAVE_AIR, CAVE_AIR, DRIPSTONE_BLOCK, CAVE_AIR, CAVE_AIR, AIR, OAK_PLANKS, OAK_PLANKS, DRIPSTONE_BLOCK, CAVE_AIR, CAVE_AIR, DRIPSTONE_BLOCK, CAVE_AIR, CAVE_AIR, DRIPSTONE_BLOCK, DRIPSTONE_BLOCK, CAVE_AIR, AIR, OAK_PLANKS, OAK_PLANKS, AIR, CAVE_AIR, CAVE_AIR, AIR, CAVE_AIR, POINTED_DRIPSTONE, AIR, CAVE_AIR, POINTED_DRIPSTONE]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ AceOfSpades_YT was punished for Motion (Type D) ]--------------
+
+Location:
+ - World: world
+ - X: 20834.786223450283
+ - Y: -4.0
+ - Z: -3517.1112298056705
+
+Information:
+ - UUID: 5e4624d4-40d1-4497-98db-5a26fe8c0639
+ - Keep Alive Ping: 77
+ - Transaction Ping: 124
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 54.05 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1457
+ - Since Riptide Ticks: 1452
+ - Flying Delay: 1
+ - Since Velocity Ticks: 1081
+ - Since Firework Ticks: 1452
+ - Ticks Existed: 1357
+ - Since Vehicle Ticks: 1352
+ - Since Liquid Ticks: 623
+ - Queued Transactions: 0
+ - Joined: 62 seconds ago
+
+All Violations:
+ - Motion (Type D) [VL: 15] (Too small Y-axis change.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OAK_PLANKS, OAK_PLANKS, OAK_PLANKS, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, AIR, CAVE_AIR, AIR, OAK_PLANKS, OAK_PLANKS, OAK_PLANKS, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ AceOfSpades_YT was punished for Motion (Type D) ]--------------
+
+Location:
+ - World: world
+ - X: 20834.28953173218
+ - Y: -4.0
+ - Z: -3515.561301947468
+
+Information:
+ - UUID: 5e4624d4-40d1-4497-98db-5a26fe8c0639
+ - Keep Alive Ping: 29
+ - Transaction Ping: 126
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 25.75 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 515
+ - Since Riptide Ticks: 571
+ - Flying Delay: 0
+ - Since Velocity Ticks: 515
+ - Since Firework Ticks: 571
+ - Ticks Existed: 415
+ - Since Vehicle Ticks: 471
+ - Since Liquid Ticks: 471
+ - Queued Transactions: 0
+ - Joined: 28 seconds ago
+
+All Violations:
+ - Motion (Type D) [VL: 15] (Too small Y-axis change.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OAK_PLANKS, OAK_PLANKS, OAK_PLANKS, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, AIR, AIR, AIR, OAK_PLANKS, OAK_PLANKS, OAK_PLANKS, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ AceOfSpades_YT was punished for Motion (Type D) ]--------------
+
+Location:
+ - World: world
+ - X: 20794.769104084433
+ - Y: -12.999989
+ - Z: -3530.0683205629975
+
+Information:
+ - UUID: 5e4624d4-40d1-4497-98db-5a26fe8c0639
+ - Keep Alive Ping: 67
+ - Transaction Ping: 121
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 53.2 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1064
+ - Since Riptide Ticks: 1003
+ - Flying Delay: 0
+ - Since Velocity Ticks: 1064
+ - Since Firework Ticks: 1003
+ - Ticks Existed: 964
+ - Since Vehicle Ticks: 903
+ - Since Liquid Ticks: 329
+ - Queued Transactions: 0
+ - Joined: 51 seconds ago
+
+All Violations:
+ - Motion (Type D) [VL: 15] (Too small Y-axis change.)
+
+Blocks Nearby: [DEEPSLATE, DEEPSLATE, DEEPSLATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE, DEEPSLATE, DEEPSLATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE, DEEPSLATE, DEEPSLATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ AceOfSpades_YT was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 20817.020381550035
+ - Y: 5.1513359850726115
+ - Z: -3549.5056420351148
+
+Information:
+ - UUID: 5e4624d4-40d1-4497-98db-5a26fe8c0639
+ - Keep Alive Ping: 29
+ - Transaction Ping: 125
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 34.3 seconds ago
+
+Total Violations: 10
+ - Combat Violations: 0
+ - Movement Violations: 7
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 686
+ - Since Riptide Ticks: 743
+ - Flying Delay: 50
+ - Since Velocity Ticks: 686
+ - Since Firework Ticks: 743
+ - Ticks Existed: 586
+ - Since Vehicle Ticks: 643
+ - Since Liquid Ticks: 429
+ - Queued Transactions: 0
+ - Joined: 26 seconds ago
+
+All Violations:
+ - Motion (Type D) [VL: 7] (Too small Y-axis change.)
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, AIR, AIR, AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, AIR, AIR, CAVE_AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ alkalinekats was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: 12090.535188687147
+ - Y: 63.9375
+ - Z: -5321.112009953527
+
+Information:
+ - UUID: be15ce4b-6d9a-4c01-9b75-c2fcba764e5f
+ - Keep Alive Ping: 176
+ - Transaction Ping: 123
+ - Server TPS: 20
+ - Sensitivity: 199
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 264.6 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 5246
+ - Since Riptide Ticks: 22236
+ - Flying Delay: 60
+ - Since Velocity Ticks: 5292
+ - Since Firework Ticks: 22236
+ - Ticks Existed: 22996
+ - Since Vehicle Ticks: 22136
+ - Since Liquid Ticks: 5133
+ - Queued Transactions: 0
+ - Joined: 1660 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DIRT, DIRT, DIRT, FARMLAND, FARMLAND, FARMLAND, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, DIRT, DIRT, FARMLAND, FARMLAND, FARMLAND, BEETROOTS, BEETROOTS, AIR, AIR, AIR, AIR, DIRT, DIRT, DIRT, FARMLAND, DARK_OAK_FENCE, FARMLAND, BEETROOTS, DARK_OAK_FENCE, BEETROOTS, AIR, LANTERN, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -5169.903291364479
+ - Y: 101.0
+ - Z: -12879.546588324674
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 68
+ - Transaction Ping: 70
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 161.4 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 16161
+ - Since Riptide Ticks: 13229
+ - Flying Delay: 46
+ - Since Velocity Ticks: 3228
+ - Since Firework Ticks: 5730
+ - Ticks Existed: 16061
+ - Since Vehicle Ticks: 13129
+ - Since Liquid Ticks: 920
+ - Queued Transactions: 0
+ - Joined: 1452 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, GRASS_BLOCK, GRASS_BLOCK, WHITE_CONCRETE, DARK_OAK_TRAPDOOR, SPRUCE_DOOR, WHITE_CONCRETE, DARK_OAK_TRAPDOOR, SPRUCE_DOOR, SNOW_BLOCK, DARK_OAK_TRAPDOOR, DARK_OAK_TRAPDOOR]
+Entities Nearby: []
+Potion Effects: [SPEED:(280t-x1)]
+---------------------------------------------------------------------------
+
+
+--------------[ l4jk was punished for Jesus (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -6791.233236301761
+ - Y: 63.0
+ - Z: 16437.639230842487
+
+Information:
+ - UUID: 89df1b90-4b2a-4e7c-bcf1-99cc84ff4ca1
+ - Keep Alive Ping: 211
+ - Transaction Ping: 211
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 59.7 seconds ago
+
+Total Violations: 28
+ - Combat Violations: 0
+ - Movement Violations: 28
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1876
+ - Since Riptide Ticks: 1877
+ - Flying Delay: 137
+ - Since Velocity Ticks: 1194
+ - Since Firework Ticks: 1877
+ - Ticks Existed: 1776
+ - Since Vehicle Ticks: 1777
+ - Since Liquid Ticks: 0
+ - Queued Transactions: 1
+ - Joined: 125 seconds ago
+
+All Violations:
+ - Jesus (Type A) [VL: 15] (Walking on water.)
+ - Jesus (Type B) [VL: 9] (Invalid Y-change in water.)
+ - Jesus (Type E) [VL: 4] (Moving too quickly on water.)
+
+Blocks Nearby: [WATER, WATER, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WATER, WATER, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WATER, WATER, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ l4jk was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -6451.642752934778
+ - Y: 76.07671261971569
+ - Z: 16634.734499256887
+
+Information:
+ - UUID: 89df1b90-4b2a-4e7c-bcf1-99cc84ff4ca1
+ - Keep Alive Ping: 221
+ - Transaction Ping: 495
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 47.6 seconds ago
+
+Total Violations: 30
+ - Combat Violations: 0
+ - Movement Violations: 25
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 1667
+ - Since Riptide Ticks: 1688
+ - Flying Delay: 1
+ - Since Velocity Ticks: 952
+ - Since Firework Ticks: 1688
+ - Ticks Existed: 1567
+ - Since Vehicle Ticks: 1588
+ - Since Liquid Ticks: 1179
+ - Queued Transactions: 1
+ - Joined: 114 seconds ago
+
+All Violations:
+ - Jesus (Type A) [VL: 12] (Walking on water.)
+ - Jesus (Type B) [VL: 9] (Invalid Y-change in water.)
+ - Jesus (Type C) [VL: 3] (Invalid Y-Change in water.)
+ - Jesus (Type E) [VL: 1] (Moving too quickly on water.)
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ l4jk was punished for Jesus (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -6584.675122198698
+ - Y: 63.0
+ - Z: 16511.67200382785
+
+Information:
+ - UUID: 89df1b90-4b2a-4e7c-bcf1-99cc84ff4ca1
+ - Keep Alive Ping: 189
+ - Transaction Ping: 148
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 67.2 seconds ago
+
+Total Violations: 31
+ - Combat Violations: 0
+ - Movement Violations: 29
+ - Player Violations: 2
+
+Misc Information:
+ - Since Teleport Ticks: 1344
+ - Since Riptide Ticks: 1354
+ - Flying Delay: 23
+ - Since Velocity Ticks: 1344
+ - Since Firework Ticks: 1354
+ - Ticks Existed: 1244
+ - Since Vehicle Ticks: 1254
+ - Since Liquid Ticks: 0
+ - Queued Transactions: 1
+ - Joined: 98 seconds ago
+
+All Violations:
+ - Jesus (Type A) [VL: 15] (Walking on water.)
+ - Jesus (Type B) [VL: 11] (Invalid Y-change in water.)
+ - Jesus (Type E) [VL: 3] (Moving too quickly on water.)
+ - Ground Spoof (Type B) [VL: 2] (Spoofed OnGround value.)
+
+Blocks Nearby: [WATER, WATER, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WATER, WATER, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WATER, WATER, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ l4jk was punished for Jesus (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -5776.750758677232
+ - Y: 63.0
+ - Z: 17734.03488371089
+
+Information:
+ - UUID: 89df1b90-4b2a-4e7c-bcf1-99cc84ff4ca1
+ - Keep Alive Ping: 115
+ - Transaction Ping: 61
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 190.95 seconds ago
+
+Total Violations: 25
+ - Combat Violations: 0
+ - Movement Violations: 25
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 3634
+ - Since Riptide Ticks: 3610
+ - Flying Delay: 16
+ - Since Velocity Ticks: 3819
+ - Since Firework Ticks: 3610
+ - Ticks Existed: 3719
+ - Since Vehicle Ticks: 3510
+ - Since Liquid Ticks: 0
+ - Queued Transactions: 0
+ - Joined: 271 seconds ago
+
+All Violations:
+ - Jesus (Type A) [VL: 15] (Walking on water.)
+ - Jesus (Type B) [VL: 5] (Invalid Y-change in water.)
+ - Jesus (Type E) [VL: 5] (Moving too quickly on water.)
+
+Blocks Nearby: [WATER, WATER, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WATER, WATER, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WATER, WATER, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Wild_Cation was punished for Scaffold (Type B) ]--------------
+
+Location:
+ - World: world_nether
+ - X: -2524.1475455052364
+ - Y: 186.88345611873245
+ - Z: -223.41150149363665
+
+Information:
+ - UUID: 551c6a77-4f2b-44d1-94e1-3b5d4d9f8d89
+ - Keep Alive Ping: 233
+ - Transaction Ping: 171
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 476.9 seconds ago
+
+Total Violations: 10
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 10
+
+Misc Information:
+ - Since Teleport Ticks: 517
+ - Since Riptide Ticks: 169124
+ - Flying Delay: 51
+ - Since Velocity Ticks: 9538
+ - Since Firework Ticks: 169124
+ - Ticks Existed: 200161
+ - Since Vehicle Ticks: 169024
+ - Since Liquid Ticks: 429
+ - Queued Transactions: 1
+ - Joined: 17445 seconds ago
+
+All Violations:
+ - Scaffold (Type B) [VL: 10] (Invalid interact.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [JUMP:(-1t-x2)]
+---------------------------------------------------------------------------
+
+
+--------------[ alkalinekats was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: 12111.472330071927
+ - Y: 65.0
+ - Z: -5278.984567669085
+
+Information:
+ - UUID: be15ce4b-6d9a-4c01-9b75-c2fcba764e5f
+ - Keep Alive Ping: 131
+ - Transaction Ping: 109
+ - Server TPS: 20
+ - Sensitivity: 199
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 253.7 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 6573
+ - Since Riptide Ticks: 17236
+ - Flying Delay: 40
+ - Since Velocity Ticks: 5074
+ - Since Firework Ticks: 17236
+ - Ticks Existed: 17402
+ - Since Vehicle Ticks: 17136
+ - Since Liquid Ticks: 832
+ - Queued Transactions: 0
+ - Joined: 973 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DARK_OAK_PLANKS, DARK_OAK_PLANKS, DARK_OAK_PLANKS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ alkalinekats was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: 12113.958588694695
+ - Y: 65.0
+ - Z: -5268.887936403511
+
+Information:
+ - UUID: be15ce4b-6d9a-4c01-9b75-c2fcba764e5f
+ - Keep Alive Ping: 31
+ - Transaction Ping: 147
+ - Server TPS: 20
+ - Sensitivity: 199
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 20.5 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 410
+ - Since Riptide Ticks: 492
+ - Flying Delay: 67
+ - Since Velocity Ticks: 410
+ - Since Firework Ticks: 492
+ - Ticks Existed: 310
+ - Since Vehicle Ticks: 392
+ - Since Liquid Ticks: 392
+ - Queued Transactions: 1
+ - Joined: 17 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [BLACK_BED, DARK_OAK_PLANKS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, BLACK_BED, DARK_OAK_PLANKS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DARK_OAK_PLANKS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ alkalinekats was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: 12135.829766885492
+ - Y: 64.0
+ - Z: -5281.093106150428
+
+Information:
+ - UUID: be15ce4b-6d9a-4c01-9b75-c2fcba764e5f
+ - Keep Alive Ping: 52
+ - Transaction Ping: 108
+ - Server TPS: 20
+ - Sensitivity: 199
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 34.2 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 684
+ - Since Riptide Ticks: 726
+ - Flying Delay: 31
+ - Since Velocity Ticks: 684
+ - Since Firework Ticks: 726
+ - Ticks Existed: 584
+ - Since Vehicle Ticks: 626
+ - Since Liquid Ticks: 626
+ - Queued Transactions: 0
+ - Joined: 31 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, AIR, ANDESITE_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DARK_OAK_WOOD, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DARK_OAK_WOOD, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ alkalinekats was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: 12106.300000011921
+ - Y: 62.0
+ - Z: -5289.699999988079
+
+Information:
+ - UUID: be15ce4b-6d9a-4c01-9b75-c2fcba764e5f
+ - Keep Alive Ping: 165
+ - Transaction Ping: 144
+ - Server TPS: 20
+ - Sensitivity: 199
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 394.4 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 250
+ - Since Riptide Ticks: 50069
+ - Flying Delay: 73
+ - Since Velocity Ticks: 7888
+ - Since Firework Ticks: 50069
+ - Ticks Existed: 56812
+ - Since Vehicle Ticks: 214
+ - Since Liquid Ticks: 1730
+ - Queued Transactions: 1
+ - Joined: 7307 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DIRT, DIRT, DIRT, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, RAIL, RAIL, RAIL, AIR, GLASS, AIR, AIR, GLASS, DIRT, DIRT, DIRT, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ alkalinekats was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: 12106.413974847695
+ - Y: 62.0
+ - Z: -5289.699999988079
+
+Information:
+ - UUID: be15ce4b-6d9a-4c01-9b75-c2fcba764e5f
+ - Keep Alive Ping: 123
+ - Transaction Ping: 123
+ - Server TPS: 20
+ - Sensitivity: 199
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 1481.05 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 3295
+ - Since Riptide Ticks: 32153
+ - Flying Delay: 56
+ - Since Velocity Ticks: 29621
+ - Since Firework Ticks: 32153
+ - Ticks Existed: 33627
+ - Since Vehicle Ticks: 32053
+ - Since Liquid Ticks: 3017
+ - Queued Transactions: 1
+ - Joined: 2686 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DIRT, DIRT, DIRT, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, RAIL, RAIL, RAIL, AIR, GLASS, AIR, AIR, GLASS, DIRT, DIRT, DIRT, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftVillager]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -2567.8670179332166
+ - Y: 64.0
+ - Z: -11043.650484242065
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 105
+ - Transaction Ping: 107
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 121.95 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 12734
+ - Since Riptide Ticks: 25016
+ - Flying Delay: 1002
+ - Since Velocity Ticks: 2439
+ - Since Firework Ticks: 20138
+ - Ticks Existed: 31350
+ - Since Vehicle Ticks: 24916
+ - Since Liquid Ticks: 21
+ - Queued Transactions: 0
+ - Joined: 2696 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, GRASS_BLOCK, MUD, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, MUD, AIR, AIR, AIR, AIR, AIR, AIR, MANGROVE_PROPAGULE, AIR, MANGROVE_ROOTS, VINE, AIR, MUD, VINE, AIR, AIR, VINE, AIR, MANGROVE_ROOTS, VINE, AIR, MANGROVE_ROOTS]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world_nether
+ - X: -556.1450144984029
+ - Y: 132.0
+ - Z: -1644.2333446769724
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 65
+ - Transaction Ping: 77
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 9.65 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 1920
+ - Since Riptide Ticks: 39329
+ - Flying Delay: 50
+ - Since Velocity Ticks: 193
+ - Since Firework Ticks: 5845
+ - Ticks Existed: 50992
+ - Since Vehicle Ticks: 39229
+ - Since Liquid Ticks: 5908
+ - Queued Transactions: 0
+ - Joined: 5011 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, AIR, AIR, POWDER_SNOW, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftIronGolem]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world_nether
+ - X: -554.7494756481582
+ - Y: 132.0
+ - Z: -1645.868352097603
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 20
+ - Transaction Ping: 74
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 21.75 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 435
+ - Since Riptide Ticks: 371
+ - Flying Delay: 50
+ - Since Velocity Ticks: 435
+ - Since Firework Ticks: 371
+ - Ticks Existed: 335
+ - Since Vehicle Ticks: 271
+ - Since Liquid Ticks: 271
+ - Queued Transactions: 0
+ - Joined: 26 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, IRON_TRAPDOOR, DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, POWDER_SNOW, POWDER_SNOW, POWDER_SNOW, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftIronGolem]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world_nether
+ - X: -554.8079151098623
+ - Y: 132.0
+ - Z: -1647.1438024475133
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 0
+ - Transaction Ping: 80
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 8.2 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 164
+ - Since Riptide Ticks: 227
+ - Flying Delay: 251
+ - Since Velocity Ticks: 164
+ - Since Firework Ticks: 227
+ - Ticks Existed: 64
+ - Since Vehicle Ticks: 127
+ - Since Liquid Ticks: 127
+ - Queued Transactions: 0
+ - Joined: 6 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [AIR, DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, AIR, AIR, DEEPSLATE_TILES, AIR, AIR, DEEPSLATE_TILES, AIR, AIR, AIR, DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, AIR, AIR, DEEPSLATE_TILES, AIR, AIR, DEEPSLATE_TILES, AIR, AIR, AIR, DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, POWDER_SNOW, POWDER_SNOW, DEEPSLATE_TILES, AIR, AIR, DEEPSLATE_TILES, AIR, AIR]
+Entities Nearby: [CraftIronGolem]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world_nether
+ - X: -555.5612572870155
+ - Y: 132.0
+ - Z: -1645.1095521109326
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 30
+ - Transaction Ping: 83
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 22.6 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 452
+ - Since Riptide Ticks: 392
+ - Flying Delay: 133
+ - Since Velocity Ticks: 452
+ - Since Firework Ticks: 392
+ - Ticks Existed: 352
+ - Since Vehicle Ticks: 292
+ - Since Liquid Ticks: 292
+ - Queued Transactions: 1
+ - Joined: 40 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world_nether
+ - X: -555.6294018894761
+ - Y: 132.0
+ - Z: -1644.2703764361454
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 16
+ - Transaction Ping: 77
+ - Server TPS: 19.96
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 19.85 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 397
+ - Since Riptide Ticks: 367
+ - Flying Delay: 51
+ - Since Velocity Ticks: 397
+ - Since Firework Ticks: 367
+ - Ticks Existed: 297
+ - Since Vehicle Ticks: 267
+ - Since Liquid Ticks: 267
+ - Queued Transactions: 0
+ - Joined: 23 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, AIR, AIR, AIR, AIR, AIR, AIR, POWDER_SNOW, POWDER_SNOW, POWDER_SNOW]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Lunairexx was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world_nether
+ - X: -556.3162775088537
+ - Y: 132.0
+ - Z: -1643.1066001085712
+
+Information:
+ - UUID: dc430984-12ba-4b9d-96eb-272ba5d461ac
+ - Keep Alive Ping: 17
+ - Transaction Ping: 131
+ - Server TPS: 19.99
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 16.15 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 323
+ - Since Riptide Ticks: 322
+ - Flying Delay: 50
+ - Since Velocity Ticks: 323
+ - Since Firework Ticks: 322
+ - Ticks Existed: 223
+ - Since Vehicle Ticks: 222
+ - Since Liquid Ticks: 222
+ - Queued Transactions: 0
+ - Joined: 19 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, AIR, AIR, AIR, AIR, AIR, AIR, POWDER_SNOW, AIR, POWDER_SNOW, DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, AIR, AIR, AIR, AIR, AIR, AIR, POWDER_SNOW, AIR, POWDER_SNOW, DEEPSLATE_TILES, DEEPSLATE_TILES, DEEPSLATE_TILES, AIR, AIR, AIR, AIR, AIR, AIR, POWDER_SNOW, POWDER_SNOW, POWDER_SNOW]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

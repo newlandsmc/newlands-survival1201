@@ -61,7 +61,7 @@ DiscordInviteLink: "https://discord.gg/CxQP7SD9Ah"
 #
 # Ex. "Debug: [GROUP_SYNC, PRESENCE]"
 #
-Debug: []
+Debug: [NICKNAME_SYNC]
 
 # Legacy option for transitioning to the new Debug option,
 # setting this to anything above 0 is the same as setting Debug to [ALL]
@@ -78,7 +78,7 @@ Experiment_JdbcPassword: "9yaUfFQ5cJ9jH7TJ"
 
 # Webhook Delivery
 Experiment_WebhookChatMessageDelivery: true
-Experiment_WebhookChatMessageUsernameFormat: "%displayname% (Minecraft)"
+Experiment_WebhookChatMessageUsernameFormat: "%displayname%"
 Experiment_WebhookChatMessageFormat: "%message%"
 Experiment_WebhookChatMessageUsernameFromDiscord: false
 Experiment_WebhookChatMessageAvatarFromDiscord: false

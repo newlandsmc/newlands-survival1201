@@ -45,10 +45,10 @@
 #
 # NOTE: The %reply% placeholder needs to be present in the format if you want the DiscordToMinecraftMessageReplyFormat to display in your message.
 #
-DiscordToMinecraftChatMessageFormat: "<light_purple>■ [Discord] %name%%reply%<reset>: %message%"
-DiscordToMinecraftChatMessageFormatNoRole: "<light_purple>■ [Discord] %name%%reply%<reset>: %message%"
+DiscordToMinecraftChatMessageFormat: "<light_purple>■ [Discord] %name%<reset>: %reply%%message%"
+DiscordToMinecraftChatMessageFormatNoRole: "<light_purple>■ [Discord] %name%<reset>: %reply%%message%"
 DiscordToMinecraftAllRolesSeparator: " | "
-DiscordToMinecraftMessageReplyFormat: " (replying to %name%)"
+DiscordToMinecraftMessageReplyFormat: "<gold>@%username%<reset> "
 
 # Minecraft -> Discord message
 #
@@ -194,7 +194,7 @@ DiscordChatChannelListCommandAllPlayersSeparator: ", "
 # %message%:        join message as seen in-game
 #
 MinecraftPlayerJoinMessage:
-  Enabled: true
+  Enabled: false
   Webhook:
     Enable: false
     AvatarUrl: "%botavatarurl%"
@@ -223,7 +223,7 @@ MinecraftPlayerJoinMessage:
 # %message%:        join message as seen in-game
 #
 MinecraftPlayerFirstJoinMessage:
-  Enabled: true
+  Enabled: false
   Webhook:
     Enable: false
     AvatarUrl: "%botavatarurl%"
@@ -252,7 +252,7 @@ MinecraftPlayerFirstJoinMessage:
 # %message%:        leave message as seen in-game
 #
 MinecraftPlayerLeaveMessage:
-  Enabled: true
+  Enabled: false
   Webhook:
     Enable: false
     AvatarUrl: "%botavatarurl%"
@@ -385,8 +385,8 @@ UnknownCommandMessage: "&cThat command doesn't exist!"
 # DiscordChatChannelServerStartupMessage: message to be sent when server starts; leave blank to disable
 # DiscordChatChannelServerShutdownMessage: message to be sent when server shuts down; leave blank to disable
 #
-DiscordChatChannelServerStartupMessage: ":white_check_mark: **Server has started**"
-DiscordChatChannelServerShutdownMessage: ":octagonal_sign: **Server has stopped**"
+DiscordChatChannelServerStartupMessage: ""
+DiscordChatChannelServerShutdownMessage: ""
 
 # Server watchdog message
 #

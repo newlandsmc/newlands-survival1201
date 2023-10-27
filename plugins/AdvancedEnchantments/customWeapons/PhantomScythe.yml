@@ -2,7 +2,7 @@
 
 # What set should be required in order to apply effects from this weapon?
 # Set to '' to not require a set
-requireSet: 'Phantom'
+requireSet: Phantom
 
 # Currently supported are only melee weapons
 material: DIAMOND_SWORD
@@ -21,22 +21,23 @@ name: '&c&lPhantom Scythe'
 
 # Weapon's lore
 lore:
-  - '&7An eerie blade designed to'
-  - '&7cut through the enemies.'
-  - ''
-  - '&c&lPHANTOM WEAPON BONUS'
-  - '&cDeal +10% damage to all enemies.'
-  - '&7(Requires all 4 phantom items.)'
+- '&7An eerie blade designed to'
+- '&7cut through the enemies.'
+- ''
+- '&c&lPHANTOM WEAPON BONUS'
+- '&cDeal +10% damage to all enemies.'
+- '&7(Requires all 4 phantom items.)'
 
 # These enchants will be applied by default when giving out weapons
 # Advanced Enchantments are supported
 enchants:
-  - 'sharpness:5'
-  - 'unbreaking:3'
+- sharpness:5
+- unbreaking:3
 
 # ** Enchantment effects are supported - view enchantments.yml to see all effects available for custom weapons
 events:
   ATTACK:
     chance: 100
     effects:
-      - 'INCREASE_DAMAGE:10'
+    - INCREASE_DAMAGE:10
+    cooldown: 0

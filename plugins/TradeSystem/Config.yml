@@ -105,15 +105,13 @@ TradeSystem:
   
   Database:
     # Values: SQLite, MySQL
-    Type: MySQL
+    Type: SQLite
     MySQL:
       Connection_URL: jdbc:mysql://localhost:3306/tradelog?autoReconnect=true&useSSL=false
       User: root
       Password: password
   
-  # WARNING - This log is very basic and does not remove files automatically after some time, so you have to do it yourself.
   TradeLog:
-    Enabled: false
     # The bukkit logger works additionally to the database logging.
     Bukkit_logger: false
   

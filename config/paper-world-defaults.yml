@@ -128,6 +128,9 @@ entities:
       wither-skeleton: true
     spiders-immune-to-poison-effect: true
     undead-immune-to-certain-effects: true
+  sniffer:
+    boosted-hatch-time: default
+    hatch-time: default
   spawning:
     all-chunks-are-slime-chunks: false
     alt-item-despawn-rate:
@@ -206,6 +209,14 @@ entities:
     wateranimal-spawn-height:
       maximum: default
       minimum: default
+  tracking-range-y:
+    animal: default
+    display: default
+    enabled: false
+    misc: default
+    monster: default
+    other: default
+    player: default
 environment:
   disable-explosion-knockback: false
   disable-ice-and-snow: false
@@ -292,4 +303,5 @@ tick-rates:
     villager:
       secondarypoisensor: 40
 unsupported-settings:
+  allow-permanent-block-break-exploits: true
   fix-invulnerable-end-crystal-exploit: true

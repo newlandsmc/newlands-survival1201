@@ -12,3 +12,27 @@ patterns:
       start: 2
       interval: 2
 levels:
+  2:
+    - type: command
+      executor: console
+      command: lp user {player} parent add traveler
+      menu_message: \n\n&eRank up!\n  &7Nomad > Traveler
+      chat_message: \n  &eRank up!&7 - Nomad > Traveler
+  26:
+    - type: command
+      executor: console
+      command: lp user {player} parent add adventurer
+      menu_message: \n\n&eRank up!\n  &7Traveler > Adventurer
+      chat_message: \n  &eRank up!&7 - Traveler > Adventurer
+  50:
+    - type: command
+      executor: console
+      command: lp user {player} parent add explorer
+      menu_message: \n\n&eRank up!\n  &7Adventurer > Explorer
+      chat_message: \n  &eRank up!&7 - Adventurer > Explorer
+  74:
+    - type: command
+      executor: console
+      command: lp user {player} parent add vanguard
+      menu_message: \n\n&eRank up!\n  &7Explorer > Vanguard
+      chat_message: \n  &eRank up!&7 - Explorer > Vanguard

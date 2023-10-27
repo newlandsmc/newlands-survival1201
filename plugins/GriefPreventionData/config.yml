@@ -110,7 +110,7 @@ GriefPrevention:
   AdminsGetWhispers: false
   AdminsGetSignNotifications: false
   VisualizationAntiCheatCompatMode: false
-  SmartBan: true
+  SmartBan: false
   Mute New Players Using Banned Words: false
   MaxPlayersPerIpAddress: -1
   SilenceBans: false

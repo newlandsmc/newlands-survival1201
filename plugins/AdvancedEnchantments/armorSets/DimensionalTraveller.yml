@@ -35,7 +35,7 @@
 # Set Events & Enchant types are intercompatible together
 
 # ** Creating set effects, this explains the system
-#events:
+# events:
 #  <any of the effects from the list>:
 #    chance: <chance of effects activating, 1-100> (Optional)
 #    cooldown: <cooldown period after effects activate, in seconds> (Optional)
@@ -46,14 +46,14 @@ name: '&5&lDimensional Traveller Armor'
 material: DIAMOND
 settings:
   equipped:
-    - '&a&l(!) &aYou have activated the Dimensional Traveller Armor Set!'
+  - '&a&l(!) &aYou have activated the Dimensional Traveller Armor Set!'
   unequipped:
-    - '&c&l(!) &cYou have deactivated the Dimensional Traveller Armor Set!'
+  - '&c&l(!) &cYou have deactivated the Dimensional Traveller Armor Set!'
 items:
   helmet:
     name: '&5&lInterdimensional Hood'
     # If you want this item to be a player head, uncomment this line
-    #owner: "name"
+    # owner: "name"
     # Custom Model Data (for 1.13+ servers with custom item packs)
     # Set custom model data integer
     customModelData: 0
@@ -62,27 +62,27 @@ items:
     itemFlags: []
     #  - 'HIDE_POTION_EFFECTS' # An Example Item Flag
     lore:
-      - '&7A hood that fades in and out'
-      - '&7Existance inside the dimension of the owner'
-      - ''
-      - '&5&lTRAVELLER SET BONUS"'
-      - '&D* You deal 30% more damage.'
-      - '&D* Dimensional Shift Passive Ability'
-      - '&7&o(Requires all four traveller items)'
+    - '&7A hood that fades in and out'
+    - '&7Existance inside the dimension of the owner'
+    - ''
+    - '&5&lTRAVELLER SET BONUS"'
+    - '&D* You deal 30% more damage.'
+    - '&D* Dimensional Shift Passive Ability'
+    - '&7&o(Requires all four traveller items)'
     enchants: # Supports AdvancedEnchantments CE
-      - "protection:4"
-      - "unbreaking:3"
-      - "planetarydeathbringer:%1-3%"
-      - "alienimplants:%1-3%"
-      - "drunk:%1-4%"
-      - "armored:%1-4%"
-      - "enlighted:%1-3%"
-      - "valor:%1-5%"
-      - "dodge:%1-5%"
-      - "guardians:%1-10%"
-      - "angelic:%1-5%"
-      - "tank:%1-4%"
-      - "hardened:%1-3%"
+      - protection:4
+      - unbreaking:3
+      - planetarydeathbringer:%1-3%
+      - alienimplants:%1-3%
+      - drunk:%1-4%
+      - armored:%1-4%
+      - enlighted:%1-3%
+      - valor:%1-5%
+      - dodge:%1-5%
+      - guardians:%1-10%
+      - angelic:%1-5%
+      - tank:%1-4%
+      - hardened:%1-3%
   chestplate:
     name: '&5&lChestplate of Ad Infinitum'
     # Custom Model Data (for 1.13+ servers with custom item packs)
@@ -93,26 +93,26 @@ items:
     itemFlags: []
     #  - 'HIDE_POTION_EFFECTS' # An Example Item Flag
     lore:
-      - '&7A cross-dimensional chestplate'
-      - '&7with impossibly infinite density'
-      - '&7and defensive properties.'
-      - ''
-      - '&5&lTRAVELLER SET BONUS"'
-      - '&D* You deal 30% more damage.'
-      - '&D* Dimensional Shift Passive Ability'
-      - '&7&o(Requires all four traveller items)'
+    - '&7A cross-dimensional chestplate'
+    - '&7with impossibly infinite density'
+    - '&7and defensive properties.'
+    - ''
+    - '&5&lTRAVELLER SET BONUS"'
+    - '&D* You deal 30% more damage.'
+    - '&D* Dimensional Shift Passive Ability'
+    - '&7&o(Requires all four traveller items)'
     enchants: # Supports AdvancedEnchantments CE
-      - "protection:4"
-      - "unbreaking:3"
-      - "deathbringer:%1-3%"
-      - "godlyoverload:%1-3%"
-      - "paladinarmored:%1-4%"
-      - "enlighted:%1-3%"
-      - "arrowdeflect:%1-4%"
-      - "valor:%1-5%"
-      - "dodge:%1-5%"
-      - "angelic:%1-5%"
-      - "tank:%1-4%"
+      - protection:4
+      - unbreaking:3
+      - deathbringer:%1-3%
+      - godlyoverload:%1-3%
+      - paladinarmored:%1-4%
+      - enlighted:%1-3%
+      - arrowdeflect:%1-4%
+      - valor:%1-5%
+      - dodge:%1-5%
+      - angelic:%1-5%
+      - tank:%1-4%
   leggings:
     name: '&5&lTimeless Robes'
     # Custom Model Data (for 1.13+ servers with custom item packs)
@@ -123,27 +123,27 @@ items:
     itemFlags: []
     #  - 'HIDE_POTION_EFFECTS' # An Example Item Flag
     lore:
-      - '&7Robes that evade the 4th dimension'
-      - '&7are in a state of constant existence'
-      - '&7cross all planets of reality.'
-      - ''
-      - '&5&lTRAVELLER SET BONUS"'
-      - '&D* You deal 30% more damage.'
-      - '&D* Dimensional Shift Passive Ability'
-      - '&7&o(Requires all four traveller items)'
+    - '&7Robes that evade the 4th dimension'
+    - '&7are in a state of constant existence'
+    - '&7cross all planets of reality.'
+    - ''
+    - '&5&lTRAVELLER SET BONUS"'
+    - '&D* You deal 30% more damage.'
+    - '&D* Dimensional Shift Passive Ability'
+    - '&7&o(Requires all four traveller items)'
     enchants: # Supports AdvancedEnchantments CE
-      - "protection:4"
-      - "unbreaking:3"
-      - "deathbringer:%1-3%"
-      - "paladinarmored:%1-4%"
-      - "armored:%1-4%"
-      - "obsidianshield:1"
-      - "enlighted:%1-3%"
-      - "valor:%1-5%"
-      - "cactus:%1-2%"
-      - "angelic:%1-5%"
-      - "clarity:%1-3%"
-      - "natureswrath:%1-4%"
+      - protection:4
+      - unbreaking:3
+      - deathbringer:%1-3%
+      - paladinarmored:%1-4%
+      - armored:%1-4%
+      - obsidianshield:1
+      - enlighted:%1-3%
+      - valor:%1-5%
+      - cactus:%1-2%
+      - angelic:%1-5%
+      - clarity:%1-3%
+      - natureswrath:%1-4%
   boots:
     name: '&5&lWarp Speed Sandals'
     # Custom Model Data (for 1.13+ servers with custom item packs)
@@ -154,35 +154,37 @@ items:
     itemFlags: []
     #  - 'HIDE_POTION_EFFECTS' # An Example Item Flag
     lore:
-      - '&7Sandals capable of breaking through'
-      - '&7dimensional barriers to allow the barer'
-      - '&7to preform impossible feats.'
-      - ''
-      - '&5&lTRAVELLER SET BONUS"'
-      - '&D* You deal 30% more damage.'
-      - '&D* Dimensional Shift Passive Ability'
-      - '&7&o(Requires all four traveller items)'
+    - '&7Sandals capable of breaking through'
+    - '&7dimensional barriers to allow the barer'
+    - '&7to preform impossible feats.'
+    - ''
+    - '&5&lTRAVELLER SET BONUS"'
+    - '&D* You deal 30% more damage.'
+    - '&D* Dimensional Shift Passive Ability'
+    - '&7&o(Requires all four traveller items)'
     enchants: # Supports AdvancedEnchantments CE
-      - "protection:4"
-      - "unbreaking:3"
-      - "divineenlighted:%1-3%"
-      - "etherealdodge:%1-5%"
-      - "gears:%1-3%"
-      - "deathbringer:%1-3%"
-      - "valor:%1-5%"
-      - "enderwalker:%1-5%"
-      - "angelic:%1-5%"
-      - "tank:%1-4%"
-      - "hardened:%1-3%"
-      - "springs:%1-3%"
-      - "rocketescape:%1-3%"
+      - protection:4
+      - unbreaking:3
+      - divineenlighted:%1-3%
+      - etherealdodge:%1-5%
+      - gears:%1-3%
+      - deathbringer:%1-3%
+      - valor:%1-5%
+      - enderwalker:%1-5%
+      - angelic:%1-5%
+      - tank:%1-4%
+      - hardened:%1-3%
+      - springs:%1-3%
+      - rocketescape:%1-3%
 events:
   FALL_DAMAGE:
     chance: 100
     effects:
-      - 'STOP_ATTACK'
+    - STOP_ATTACK
+    cooldown: 0
   DEFENSE:
     chance: 20
     cooldown: 10
     effects:
-      - 'DIMENSIONAL_SHIFT:&5&l*** THE WRATH OF TRAVELLER <&c&l%victim name%&5&l> ***:2:5 %chance:30%' #  COMING IN NEXT UPDATE! 7.0.1
+    - DIMENSIONAL_SHIFT:&5&l*** THE WRATH OF TRAVELLER <&c&l%victim name%&5&l> ***:2:5
+      %chance:30%

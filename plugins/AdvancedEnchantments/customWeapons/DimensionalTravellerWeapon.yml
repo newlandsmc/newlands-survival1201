@@ -2,7 +2,7 @@
 
 # What set should be required in order to apply effects from this weapon?
 # Set to '' to not require a set
-requireSet: 'DimensionalTraveller'
+requireSet: DimensionalTraveller
 
 # Currently supported are only melee weapons
 material: DIAMOND_AXE
@@ -21,24 +21,25 @@ name: '&5&lTime Splitter'
 
 # Weapon's lore
 lore:
-  - '&7The mythic, fabled magic axe'
-  - '&7with the impossible power to'
-  - '&7cut the very fabric of time.'
-  - ''
-  - '&5&lTRAVELLER WEAPON BONUS'
-  - '&5Deal +10% damage to all enemies.'
-  - '&7(Requires all 4 traveller items.)'
+- '&7The mythic, fabled magic axe'
+- '&7with the impossible power to'
+- '&7cut the very fabric of time.'
+- ''
+- '&5&lTRAVELLER WEAPON BONUS'
+- '&5Deal +10% damage to all enemies.'
+- '&7(Requires all 4 traveller items.)'
 
 # These enchants will be applied by default when giving out weapons
 # Advanced Enchantments are supported
 enchants:
-  - 'lifesteal:%1-3%'
-  - 'sharpness:5'
-  - 'unbreaking:3'
+- lifesteal:%1-3%
+- sharpness:5
+- unbreaking:3
 
 # ** Enchantment effects are supported - view enchantments.yml to see all effects available for custom weapons
 events:
   ATTACK:
     chance: 100
     effects:
-      - 'INCREASE_DAMAGE:10'
+    - INCREASE_DAMAGE:10
+    cooldown: 0

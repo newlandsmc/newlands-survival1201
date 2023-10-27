@@ -35,7 +35,7 @@
 # Set Events & Enchant types are intercompatible together
 
 # ** Creating set effects, this explains the system
-#events:
+# events:
 #  <any of the effects from the list>:
 #    chance: <chance of effects activating, 1-100> (Optional)
 #    cooldown: <cooldown period after effects activate, in seconds> (Optional)
@@ -46,9 +46,9 @@ name: '&b&lYeti Armor'
 material: DIAMOND
 settings:
   equipped:
-    - '&a&l(!) &aYou have activated the Yeti set!'
+  - '&a&l(!) &aYou have activated the Yeti set!'
   unequipped:
-    - '&c&l(!) &cYou have deactivated the Yeti set!'
+  - '&c&l(!) &cYou have deactivated the Yeti set!'
 items:
   helmet:
     name: '&b&lYeti Facemask'
@@ -60,24 +60,24 @@ items:
     itemFlags: []
     #  - 'HIDE_POTION_EFFECTS' # An Example Item Flag
     lore:
-      - '&bThe savage mask of the Yeti.'
-      - ''
-      - '&b&lYETI SET BONUS'
-      - '&b* Deal +10% damage to all enemies.'
-      - '&b* Enemies deal 10% less damage to you.'
-      - '&7&o(Requires all 4 yeti items.)'
+    - '&bThe savage mask of the Yeti.'
+    - ''
+    - '&b&lYETI SET BONUS'
+    - '&b* Deal +10% damage to all enemies.'
+    - '&b* Enemies deal 10% less damage to you.'
+    - '&7&o(Requires all 4 yeti items.)'
     enchants: # Supports AdvancedEnchantments CE
-      - "protection:4"
-      - "unbreaking:3"
-      - "deathbringer:%1-3%"
-      - "implants:%1-3%"
-      - "drunk:%1-4%"
-      - "armored:%1-4%"
-      - "enlighted:%1-3%"
-      - "valor:%1-5%"
-      - "angelic:%1-5%"
-      - "tank:%1-4%"
-      - "hardened:%1-3%"
+      - protection:4
+      - unbreaking:3
+      - deathbringer:%1-3%
+      - implants:%1-3%
+      - drunk:%1-4%
+      - armored:%1-4%
+      - enlighted:%1-3%
+      - valor:%1-5%
+      - angelic:%1-5%
+      - tank:%1-4%
+      - hardened:%1-3%
   chestplate:
     name: '&b&lBloody Yeti Torso'
     # Custom Model Data (for 1.13+ servers with custom item packs)
@@ -88,22 +88,22 @@ items:
     itemFlags: []
     #  - 'HIDE_POTION_EFFECTS' # An Example Item Flag
     lore:
-      - '&bThe impermeable chestplate of the Yeti.'
-      - ''
-      - '&b&lYETI SET BONUS'
-      - '&b* Deal +10% damage to all enemies.'
-      - '&b* Enemies deal 10% less damage to you.'
-      - '&7&o(Requires all 4 yeti items.)'
+    - '&bThe impermeable chestplate of the Yeti.'
+    - ''
+    - '&b&lYETI SET BONUS'
+    - '&b* Deal +10% damage to all enemies.'
+    - '&b* Enemies deal 10% less damage to you.'
+    - '&7&o(Requires all 4 yeti items.)'
     enchants: # Supports AdvancedEnchantments CE
-      - "protection:4"
-      - "unbreaking:3"
-      - "godlyoverload:%1-3%"
-      - "armored:%1-4%"
-      - "enlighted:%1-3%"
-      - "guardians:%1-10%"
-      - "dodge:%1-5%"
-      - "angelic:%1-5%"
-      - "tank:%1-4%"
+      - protection:4
+      - unbreaking:3
+      - godlyoverload:%1-3%
+      - armored:%1-4%
+      - enlighted:%1-3%
+      - guardians:%1-10%
+      - dodge:%1-5%
+      - angelic:%1-5%
+      - tank:%1-4%
   leggings:
     name: '&b&lFuzzy Yeti Leggings'
     # Custom Model Data (for 1.13+ servers with custom item packs)
@@ -114,25 +114,25 @@ items:
     itemFlags: []
     #  - 'HIDE_POTION_EFFECTS' # An Example Item Flag
     lore:
-      - '&bThe cozy yet monstrous legs of the Yeti.'
-      - ''
-      - '&b&lYETI SET BONUS'
-      - '&b* Deal +10% damage to all enemies.'
-      - '&b* Enemies deal 10% less damage to you.'
-      - '&7&o(Requires all 4 yeti items.)'
+    - '&bThe cozy yet monstrous legs of the Yeti.'
+    - ''
+    - '&b&lYETI SET BONUS'
+    - '&b* Deal +10% damage to all enemies.'
+    - '&b* Enemies deal 10% less damage to you.'
+    - '&7&o(Requires all 4 yeti items.)'
     enchants: # Supports AdvancedEnchantments CE
-      - "protection:4"
-      - "unbreaking:3"
-      - "deathbringer:%1-3%"
-      - "paladinarmored:%1-4%"
-      - "armored:%1-4%"
-      - "obsidianshield:1"
-      - "enlighted:%1-3%"
-      - "valor:%1-5%"
-      - "cactus:%1-2%"
-      - "angelic:%1-5%"
-      - "clarity:%1-3%"
-      - "natureswrath:%1-4%"
+      - protection:4
+      - unbreaking:3
+      - deathbringer:%1-3%
+      - paladinarmored:%1-4%
+      - armored:%1-4%
+      - obsidianshield:1
+      - enlighted:%1-3%
+      - valor:%1-5%
+      - cactus:%1-2%
+      - angelic:%1-5%
+      - clarity:%1-3%
+      - natureswrath:%1-4%
   boots:
     name: '&b&lBig-Yeti Boots'
     # Custom Model Data (for 1.13+ servers with custom item packs)
@@ -143,32 +143,34 @@ items:
     itemFlags: []
     #  - 'HIDE_POTION_EFFECTS' # An Example Item Flag
     lore:
-      - '&bBigfoot has nothing on these boots.'
-      - ''
-      - '&b&lYETI SET BONUS'
-      - '&b* Deal +10% damage to all enemies.'
-      - '&b* Enemies deal 10% less damage to you.'
-      - '&7&o(Requires all 4 yeti items.)'
+    - '&bBigfoot has nothing on these boots.'
+    - ''
+    - '&b&lYETI SET BONUS'
+    - '&b* Deal +10% damage to all enemies.'
+    - '&b* Enemies deal 10% less damage to you.'
+    - '&7&o(Requires all 4 yeti items.)'
     enchants: # Supports AdvancedEnchantments CE
-      - "protection:4"
-      - "unbreaking:3"
-      - "enlighted:%1-3%"
-      - "gears:%1-3%"
-      - "armored:%1-4%"
-      - "deathbringer:%1-3%"
-      - "valor:%1-5%"
-      - "enderwalker:%1-5%"
-      - "angelic:%1-5%"
-      - "tank:%1-4%"
-      - "hardened:%1-3%"
-      - "springs:%1-3%"
-      - "rocketescape:%1-3%"
+      - protection:4
+      - unbreaking:3
+      - enlighted:%1-3%
+      - gears:%1-3%
+      - armored:%1-4%
+      - deathbringer:%1-3%
+      - valor:%1-5%
+      - enderwalker:%1-5%
+      - angelic:%1-5%
+      - tank:%1-4%
+      - hardened:%1-3%
+      - springs:%1-3%
+      - rocketescape:%1-3%
 events:
   ATTACK:
     chance: 100
     effects:
-      - 'INCREASE_DAMAGE:10'
+    - INCREASE_DAMAGE:10
+    cooldown: 0
   DEFENSE:
     chance: 100
     effects:
-      - 'DECREASE_DAMAGE:10'
+    - DECREASE_DAMAGE:10
+    cooldown: 0

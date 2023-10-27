@@ -35,7 +35,7 @@
 # Set Events & Enchant types are intercompatible together
 
 # ** Creating set effects, this explains the system
-#events:
+# events:
 #  <any of the effects from the list>:
 #    chance: <chance of effects activating, 1-100> (Optional)
 #    cooldown: <cooldown period after effects activate, in seconds> (Optional)
@@ -46,9 +46,9 @@ name: '&d&lKOTH Armor'
 material: DIAMOND
 settings:
   equipped:
-    - '&a&l(!) &aYou have activated the KOTH set!'
+  - '&a&l(!) &aYou have activated the KOTH set!'
   unequipped:
-    - '&c&l(!) &cYou have deactivated the KOTH set!'
+  - '&c&l(!) &cYou have deactivated the KOTH set!'
 items:
   helmet:
     name: '&f&l&ki &c&lK&6&l.&e&lO&2&l.&b&lT&5&l.&d&lH &f&l&nHelmet &f&l&ki'
@@ -60,23 +60,23 @@ items:
     itemFlags: []
     #  - 'HIDE_POTION_EFFECTS' # An Example Item Flag
     lore:
-      - ''
-      - '&d&lKOTH SET BONUS'
-      - '&d&l* &d+20% PvP Damage'
-      - '&d&l* &d+50% PvE Damage'
-      - '&d&l* &dAuto Bless'
-      - '&d&l* &dNo Fall Damage'
-      - '&7&o(Requires all 4 koth items.)'
+    - ''
+    - '&d&lKOTH SET BONUS'
+    - '&d&l* &d+20% PvP Damage'
+    - '&d&l* &d+50% PvE Damage'
+    - '&d&l* &dAuto Bless'
+    - '&d&l* &dNo Fall Damage'
+    - '&7&o(Requires all 4 koth items.)'
     enchants: # Supports AdvancedEnchantments CE
-      - "protection:4"
-      - "unbreaking:3"
-      - "armored:%1-4%"
-      - "drunk:%1-4%"
-      - "enlighted:%1-3%"
-      - "deathbringer:%1-3%"
-      - "angelic:%1-5%"
-      - "implants:%1-3"
-      - "tank:%1-4%"
+      - protection:4
+      - unbreaking:3
+      - armored:%1-4%
+      - drunk:%1-4%
+      - enlighted:%1-3%
+      - deathbringer:%1-3%
+      - angelic:%1-5%
+      - implants:%1-3
+      - tank:%1-4%
   chestplate:
     name: '&f&l&ki &c&lK&6&l.&e&lO&2&l.&b&lT&5&l.&d&lH &f&l&nChestplate &f&l&ki'
     # Custom Model Data (for 1.13+ servers with custom item packs)
@@ -87,23 +87,23 @@ items:
     itemFlags: []
     #  - 'HIDE_POTION_EFFECTS' # An Example Item Flag
     lore:
-      - ''
-      - '&d&lKOTH SET BONUS'
-      - '&d&l* &d+20% PvP Damage'
-      - '&d&l* &d+50% PvE Damage'
-      - '&d&l* &dAuto Bless'
-      - '&d&l* &dNo Fall Damage'
-      - '&7&o(Requires all 4 koth items.)'
+    - ''
+    - '&d&lKOTH SET BONUS'
+    - '&d&l* &d+20% PvP Damage'
+    - '&d&l* &d+50% PvE Damage'
+    - '&d&l* &dAuto Bless'
+    - '&d&l* &dNo Fall Damage'
+    - '&7&o(Requires all 4 koth items.)'
     enchants: # Supports AdvancedEnchantments CE
-      - "protection:4"
-      - "unbreaking:3"
-      - "armored:%1-4%"
-      - "enlighted:%1-3%"
-      - "overload:%1-3%"
-      - "deathbringer:%1-3%"
-      - "angelic:%1-5%"
-      - "tank:%1-4%"
-      - "dodge:%1-5%"
+      - protection:4
+      - unbreaking:3
+      - armored:%1-4%
+      - enlighted:%1-3%
+      - overload:%1-3%
+      - deathbringer:%1-3%
+      - angelic:%1-5%
+      - tank:%1-4%
+      - dodge:%1-5%
   leggings:
     name: '&f&l&ki &c&lK&6&l.&e&lO&2&l.&b&lT&5&l.&d&lH &f&l&nLeggings &f&l&ki'
     # Custom Model Data (for 1.13+ servers with custom item packs)
@@ -114,24 +114,24 @@ items:
     itemFlags: []
     #  - 'HIDE_POTION_EFFECTS' # An Example Item Flag
     lore:
-      - ''
-      - '&d&lKOTH SET BONUS'
-      - '&d&l* &d+20% PvP Damage'
-      - '&d&l* &d+50% PvE Damage'
-      - '&d&l* &dAuto Bless'
-      - '&d&l* &dNo Fall Damage'
-      - '&7&o(Requires all 4 koth items.)'
+    - ''
+    - '&d&lKOTH SET BONUS'
+    - '&d&l* &d+20% PvP Damage'
+    - '&d&l* &d+50% PvE Damage'
+    - '&d&l* &dAuto Bless'
+    - '&d&l* &dNo Fall Damage'
+    - '&7&o(Requires all 4 koth items.)'
     enchants: # Supports AdvancedEnchantments CE
-      - "protection:4"
-      - "unbreaking:3"
-      - "armored:%1-4%"
-      - "clarity:%1-3%"
-      - "enlighted:%1-3%"
-      - "deathbringer:%1-3%"
-      - "valor:%1-5%"
-      - "angelic:%1-5%"
-      - "tank:%1-4%"
-      - "cactus:%1-2%"
+      - protection:4
+      - unbreaking:3
+      - armored:%1-4%
+      - clarity:%1-3%
+      - enlighted:%1-3%
+      - deathbringer:%1-3%
+      - valor:%1-5%
+      - angelic:%1-5%
+      - tank:%1-4%
+      - cactus:%1-2%
   boots:
     name: '&f&l&ki &c&lK&6&l.&e&lO&2&l.&b&lT&5&l.&d&lH &f&l&nBoots &f&l&ki'
     # Custom Model Data (for 1.13+ servers with custom item packs)
@@ -142,44 +142,48 @@ items:
     itemFlags: []
     #  - 'HIDE_POTION_EFFECTS' # An Example Item Flag
     lore:
-      - ''
-      - '&d&lKOTH SET BONUS'
-      - '&d&l* &d+20% PvP Damage'
-      - '&d&l* &d+50% PvE Damage'
-      - '&d&l* &dAuto Bless'
-      - '&d&l* &dNo Fall Damage'
-      - '&7&o(Requires all 4 koth items.)'
+    - ''
+    - '&d&lKOTH SET BONUS'
+    - '&d&l* &d+20% PvP Damage'
+    - '&d&l* &d+50% PvE Damage'
+    - '&d&l* &dAuto Bless'
+    - '&d&l* &dNo Fall Damage'
+    - '&7&o(Requires all 4 koth items.)'
     enchants: # Supports AdvancedEnchantments CE
-      - "protection:4"
-      - "unbreaking:3"
-      - "gears:%1-3%"
-      - "armored:%1-4%"
-      - "enlighted:%1-3%"
-      - "deathbringer:%1-3%"
-      - "angelic:%1-5%"
-      - "tank:%1-4"
-      - "rocketescape:%1-3%"
+      - protection:4
+      - unbreaking:3
+      - gears:%1-3%
+      - armored:%1-4%
+      - enlighted:%1-3%
+      - deathbringer:%1-3%
+      - angelic:%1-5%
+      - tank:%1-4
+      - rocketescape:%1-3%
 events:
   ATTACK:
     chance: 100
     effects:
-      - 'INCREASE_DAMAGE:20'
+    - INCREASE_DAMAGE:20
+    cooldown: 0
   ATTACK_MOB:
     chance: 100
     effects:
-      - 'INCREASE_DAMAGE:50'
+    - INCREASE_DAMAGE:50
+    cooldown: 0
   FALL_DAMAGE:
     chance: 100
     effects:
-      - 'STOP_ATTACK'
+    - STOP_ATTACK
+    cooldown: 0
   SWING:
     chance: 100
     effects:
-      - 'CURE_PERMANENT:SLOW %attacker%'
-      - 'CURE_PERMANENT:CONFUSION %attacker%'
-      - 'CURE_PERMANENT:BLINDNESS %attacker%'
-      - 'CURE_PERMANENT:POISON %attacker%'
-      - 'CURE_PERMANENT:WITHER %attacker%'
-      - 'CURE_PERMANENT:HUNGER %attacker%'
-      - 'CURE_PERMANENT:WEAKNESS %attacker%'
-      - 'CURE_PERMANENT:SLOW_DIGGING %attacker%'
+    - CURE_PERMANENT:SLOW %attacker%
+    - CURE_PERMANENT:CONFUSION %attacker%
+    - CURE_PERMANENT:BLINDNESS %attacker%
+    - CURE_PERMANENT:POISON %attacker%
+    - CURE_PERMANENT:WITHER %attacker%
+    - CURE_PERMANENT:HUNGER %attacker%
+    - CURE_PERMANENT:WEAKNESS %attacker%
+    - CURE_PERMANENT:SLOW_DIGGING %attacker%
+    cooldown: 0

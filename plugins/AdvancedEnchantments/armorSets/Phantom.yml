@@ -35,7 +35,7 @@
 # Set Events & Enchant types are intercompatible together
 
 # ** Creating set effects, this explains the system
-#events:
+# events:
 #  <any of the effects from the list>:
 #    chance: <chance of effects activating, 1-100> (Optional)
 #    cooldown: <cooldown period after effects activate, in seconds> (Optional)
@@ -46,9 +46,9 @@ name: '&b&lPhantom Armor'
 material: DIAMOND
 settings:
   equipped:
-    - '&a&l(!) &aYou have activated the Phantom set!'
+  - '&a&l(!) &aYou have activated the Phantom set!'
   unequipped:
-    - '&c&l(!) &cYou have deactivated the Phantom set!'
+  - '&c&l(!) &cYou have deactivated the Phantom set!'
 items:
   helmet:
     name: '&c&lPhantom Hood'
@@ -60,20 +60,20 @@ items:
     itemFlags: []
     #  - 'HIDE_POTION_EFFECTS' # An Example Item Flag
     lore:
-      - '&cThe fabled hood of the phantom'
-      - ''
-      - '&c&lPHANTOM SET BONUS'
-      - '&cDeal +25% damage to all enemies.'
-      - '&7&o(Requires all 4 phantom items.)'
+    - '&cThe fabled hood of the phantom'
+    - ''
+    - '&c&lPHANTOM SET BONUS'
+    - '&cDeal +25% damage to all enemies.'
+    - '&7&o(Requires all 4 phantom items.)'
     enchants: # Supports AdvancedEnchantments CE
-      - "protection:4"
-      - "unbreaking:3"
-      - "drunk:%1-4%"
-      - "armored:%1-4%"
-      - "enlighted:%1-3%"
-      - "implants:%1-3%"
-      - "angelic:%1-5%"
-      - "tank:%1-4%"
+      - protection:4
+      - unbreaking:3
+      - drunk:%1-4%
+      - armored:%1-4%
+      - enlighted:%1-3%
+      - implants:%1-3%
+      - angelic:%1-5%
+      - tank:%1-4%
   chestplate:
     name: '&c&lPhantom Shroud'
     # Custom Model Data (for 1.13+ servers with custom item packs)
@@ -84,20 +84,20 @@ items:
     itemFlags: []
     #  - 'HIDE_POTION_EFFECTS' # An Example Item Flag
     lore:
-      - '&cThe legendary shroud of the Phantom.'
-      - ''
-      - '&c&lPHANTOM SET BONUS'
-      - '&cDeal +25% damage to all enemies.'
-      - '&7&o(Requires all 4 phantom items.)'
+    - '&cThe legendary shroud of the Phantom.'
+    - ''
+    - '&c&lPHANTOM SET BONUS'
+    - '&cDeal +25% damage to all enemies.'
+    - '&7&o(Requires all 4 phantom items.)'
     enchants: # Supports AdvancedEnchantments CE
-      - "protection:4"
-      - "unbreaking:3"
-      - "armored:%1-4%"
-      - "enlighted:%1-3%"
-      - "overload:%1-3%"
-      - "dodge:%1-4%"
-      - "angelic:%1-5%"
-      - "tank:%1-4%"
+      - protection:4
+      - unbreaking:3
+      - armored:%1-4%
+      - enlighted:%1-3%
+      - overload:%1-3%
+      - dodge:%1-4%
+      - angelic:%1-5%
+      - tank:%1-4%
   leggings:
     name: '&c&lPhantom Robeset'
     # Custom Model Data (for 1.13+ servers with custom item packs)
@@ -108,21 +108,21 @@ items:
     itemFlags: []
     #  - 'HIDE_POTION_EFFECTS' # An Example Item Flag
     lore:
-      - '&cThe demonic robe of the Phantom.'
-      - ''
-      - '&c&lPHANTOM SET BONUS'
-      - '&cDeal +25% damage to all enemies.'
-      - '&7&o(Requires all 4 phantom items.)'
+    - '&cThe demonic robe of the Phantom.'
+    - ''
+    - '&c&lPHANTOM SET BONUS'
+    - '&cDeal +25% damage to all enemies.'
+    - '&7&o(Requires all 4 phantom items.)'
     enchants: # Supports AdvancedEnchantments CE
-      - "protection:4"
-      - "unbreaking:3"
-      - "deathbringer:%1-3%"
-      - "armored:%1-4%"
-      - "enlighted:%1-3%"
-      - "obsidianshield:1"
-      - "angelic:%1-5%"
-      - "cactus:%1-2%"
-      - "tank:%1-4%"
+      - protection:4
+      - unbreaking:3
+      - deathbringer:%1-3%
+      - armored:%1-4%
+      - enlighted:%1-3%
+      - obsidianshield:1
+      - angelic:%1-5%
+      - cactus:%1-2%
+      - tank:%1-4%
   boots:
     name: '&c&lPhantom Sandals'
     # Custom Model Data (for 1.13+ servers with custom item packs)
@@ -133,23 +133,24 @@ items:
     itemFlags: []
     #  - 'HIDE_POTION_EFFECTS' # An Example Item Flag
     lore:
-      - '&cThe silent sandals of the Phantom.'
-      - ''
-      - '&c&lPHANTOM SET BONUS'
-      - '&cDeal +25% damage to all enemies.'
-      - '&7&o(Requires all 4 phantom items.)'
+    - '&cThe silent sandals of the Phantom.'
+    - ''
+    - '&c&lPHANTOM SET BONUS'
+    - '&cDeal +25% damage to all enemies.'
+    - '&7&o(Requires all 4 phantom items.)'
     enchants: # Supports AdvancedEnchantments CE
-      - "protection:4"
-      - "unbreaking:3"
-      - "deathbringer:%1-3%"
-      - "armored:%1-4%"
-      - "enlighted:%1-3%"
-      - "gears:%1-3%"
-      - "springs:%1-3%"
-      - "tank:%1-4%"
-      - "rocketescape:%1-3%"
+      - protection:4
+      - unbreaking:3
+      - deathbringer:%1-3%
+      - armored:%1-4%
+      - enlighted:%1-3%
+      - gears:%1-3%
+      - springs:%1-3%
+      - tank:%1-4%
+      - rocketescape:%1-3%
 events:
   ATTACK:
     chance: 100
     effects:
-      - 'INCREASE_DAMAGE:25'
+    - INCREASE_DAMAGE:25
+    cooldown: 0

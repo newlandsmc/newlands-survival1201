@@ -209,6 +209,7 @@ Kill Abuse:
   Enabled: false
   Max Kills: 5
   Time Limit: 60
+  # Possible variables are <player> and <victim>
   Commands on Abuse:
   - 'kick <player> Kill abuse is not allowed.'
   Respawn Protection: 15
@@ -306,9 +307,9 @@ Plugin Hooks:
     - 'lobby'
 
 Database:
-  # Database type, supported databases: SQLite or MySQL or MariaDB
+  # Database type, supported databases: SQLite or MySQL
   Type: SQLite
-  # Only fill this section if using MySQL or MariaDB
+  # Only fill this section if using MySQL
   MySQL:
     Host: 127.0.0.1
     Port: 3306
@@ -323,4 +324,5 @@ Update Check:
 Debug Mode: false
 
 # Informs PvPManager if the config is updated, do not touch it unless you want to reset the config
-Config Version: 95
+Config Version: 96
+Database Version: 1
