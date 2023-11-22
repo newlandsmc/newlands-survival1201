@@ -80,21 +80,6 @@
 #    disabled-worlds: # List worlds in which enchantment will not work (cAsE sEnSiTiVe)
 #      - "My_World"
 
-replanter:
-  display: '%group-color%Replanter'
-  description: Replants crops when you break them.
-  applies-to: Hoes
-  type: MINING
-  group: UNCOMMON
-  applies:
-  - ALL_HOE
-  levels:
-    '1':
-      condition:
-      - '%is crop% = false : %stop%'
-      #        - "%is fully grown% = false : %stop%"
-      effects:
-      - PLANT_SEEDS:0:%block drop type%
 experience:
   display: '%group-color%Experience'
   description: Chance to get more experience from ores.
@@ -1877,20 +1862,6 @@ markofthebeast:
       - WAIT:100
       - ACTION_BAR:§5*** BEAST UNMARKED! *** @Victim
       - ACTION_BAR:§a*** YOU'RE NO LONGER MARKED! *** @Attacker
-reach:
-  display: '%group-color%Reach'
-  description: Increase range underwater
-  applies-to: Tridents
-  type: ATTACK;ATTACK_MOB
-  group: EXOTIC
-  applies:
-  - TRIDENT
-  levels:
-    '1':
-      condition:
-      - '%damage cause% != THORNS : %allow%'
-      effects:
-      - REACH:5
 shockwave:
   display: '%group-color%Shockwave'
   description: Chance to knockback all nearby enemies on block

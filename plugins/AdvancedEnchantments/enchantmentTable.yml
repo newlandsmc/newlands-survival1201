@@ -1,5 +1,5 @@
 # Enchantment Table Support
-enabled: true
+enabled: false
 
 # Chance of getting custom enchantments when
 # enchanting with enchantment table.

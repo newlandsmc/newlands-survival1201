@@ -890,6 +890,13 @@ settings:
   allow-place-of-armor-block: true
   collect-souls-from-players: false
   right-click-triggers-on-off-hand: false
+  break-block-effect-blacklist:
+  - SPAWNER
+  - AIR
+  - LAVA
+  - WATER
+  - CAULDRON
+  - BEDROCK
 armor-items:
   helmet:
   - HEAD

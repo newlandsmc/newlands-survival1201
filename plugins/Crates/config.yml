@@ -14,7 +14,7 @@ services:
   - "Minecraft-MP.com"
   - "Minecraft-Server.net"
   - "TopMinecraftServers"
-  - "MC-Servers.com"
+  - "FindMCServer"
 free-premium-crate:
   enable: true
   rules:
@@ -71,14 +71,10 @@ menu:
       cant-use:
         lore:
           - '<red>You don''t have any premium crates!'
-          - '<red>Buy more at <gradient:yellow:gold>store.newlandsmc.com</gradient>'
+          - '<red>Buy more at <gradient:yellow:gold>newlandsmc.tebex.io</gradient>'
           - ''
           - '<gray>Free Premium Crate(s):'
           - '<gray>{days}/{max_days} days of voting completed.'
-          - ''
-          - '<gray>Get a free rank DOUBLE the'
-          - '<gray>premium crates you get from'
-          - '<gray>voting! Do <gradient:#55ff55:#008876>/store</gradient><gray>.'
     vote:
       name: '<green>Vote'
       material: 'CHEST'

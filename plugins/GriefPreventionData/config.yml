@@ -43,8 +43,8 @@ GriefPrevention:
       UnusedClaimDays: 14
       AllClaims:
         DaysInactive: 30
-        ExceptWhenOwnerHasTotalClaimBlocks: 25000
-        ExceptWhenOwnerHasBonusClaimBlocks: 25000
+        ExceptWhenOwnerHasTotalClaimBlocks: 16000
+        ExceptWhenOwnerHasBonusClaimBlocks: 1
       AutomaticNatureRestoration:
         SurvivalWorlds: false
     AllowTrappedInAdminClaims: true

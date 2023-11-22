@@ -1,6 +1,6 @@
 # Whether or not AE should take control of anvils.
 # If this is disabled, no custom enchantments will work in anvils.
-enabled: true
+enabled: false
 
 # If true, AE will handle repair costs the same as vanilla.
 # You can read more about it here https://minecraft.fandom.com/wiki/Anvil_mechanics.
