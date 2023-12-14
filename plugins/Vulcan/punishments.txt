@@ -40322,3 +40322,1824 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ SonicSpeedAiden was punished for Sprint (Type A) ]--------------
+
+Location:
+ - World: world_nether
+ - X: -2263.1798444543206
+ - Y: 74.0
+ - Z: 235.51011285080241
+
+Information:
+ - UUID: 009acc9d-1df8-49bf-ad27-d02dc3195990
+ - Keep Alive Ping: 51
+ - Transaction Ping: 97
+ - Server TPS: 20
+ - Sensitivity: -33
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 16.75 seconds ago
+
+Total Violations: 17
+ - Combat Violations: 0
+ - Movement Violations: 17
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 472
+ - Since Riptide Ticks: 17875
+ - Flying Delay: 89
+ - Since Velocity Ticks: 335
+ - Since Firework Ticks: 17875
+ - Ticks Existed: 19164
+ - Since Vehicle Ticks: 17775
+ - Since Liquid Ticks: 758
+ - Queued Transactions: 0
+ - Joined: 990 seconds ago
+
+All Violations:
+ - Jump (Type A) [VL: 1] (Invalid jump motion.)
+ - Speed (Type A) [VL: 1] (Invalid friction.)
+ - Sprint (Type A) [VL: 15] (Invalid sprint direction.)
+ - Bad Packets (Type 6) [VL: 5] (Invalid Block Dig packets.)
+
+Blocks Nearby: [AIR, WARPED_NYLIUM, NETHERRACK, AIR, NETHER_SPROUTS, WARPED_NYLIUM, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WARPED_NYLIUM, NETHERRACK, AIR, NETHER_SPROUTS, NETHERRACK, AIR, AIR, WARPED_STEM, AIR, AIR, WARPED_STEM, AIR, WARPED_NYLIUM, NETHERRACK, AIR, AIR, WARPED_NYLIUM, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Theafe was punished for Speed (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: -1719.0935300137135
+ - Y: 76.02442408821369
+ - Z: -4630.308871409437
+
+Information:
+ - UUID: 49297e4a-3993-438c-bc6e-b45236fd8e73
+ - Keep Alive Ping: 142
+ - Transaction Ping: 152
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Amogus
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 516.7 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 650
+ - Since Riptide Ticks: 130123
+ - Flying Delay: 51
+ - Since Velocity Ticks: 10334
+ - Since Firework Ticks: 130123
+ - Ticks Existed: 144496
+ - Since Vehicle Ticks: 35372
+ - Since Liquid Ticks: 407
+ - Queued Transactions: 1
+ - Joined: 21548 seconds ago
+
+All Violations:
+ - Speed (Type C) [VL: 15] (Moving too quickly in the air.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Theafe was punished for Speed (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: -632.3894238299345
+ - Y: 63.7531999805212
+ - Z: -4559.316737363985
+
+Information:
+ - UUID: 49297e4a-3993-438c-bc6e-b45236fd8e73
+ - Keep Alive Ping: 146
+ - Transaction Ping: 151
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 358.55 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1004
+ - Since Riptide Ticks: 11368
+ - Flying Delay: 50
+ - Since Velocity Ticks: 7171
+ - Since Firework Ticks: 11368
+ - Ticks Existed: 15154
+ - Since Vehicle Ticks: 1001
+ - Since Liquid Ticks: 26
+ - Queued Transactions: 0
+ - Joined: 1917 seconds ago
+
+All Violations:
+ - Speed (Type C) [VL: 15] (Moving too quickly in the air.)
+
+Blocks Nearby: [SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Theafe was punished for Speed (Type C) ]--------------
+
+Location:
+ - World: world_nether
+ - X: 68.31079752957343
+ - Y: 57.7967356006687
+ - Z: -1461.1800452882346
+
+Information:
+ - UUID: 49297e4a-3993-438c-bc6e-b45236fd8e73
+ - Keep Alive Ping: 146
+ - Transaction Ping: 155
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 45.8 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 15647
+ - Since Riptide Ticks: 21020
+ - Flying Delay: 50
+ - Since Velocity Ticks: 916
+ - Since Firework Ticks: 21020
+ - Ticks Existed: 27592
+ - Since Vehicle Ticks: 14937
+ - Since Liquid Ticks: 4166
+ - Queued Transactions: 1
+ - Joined: 1793 seconds ago
+
+All Violations:
+ - Speed (Type C) [VL: 15] (Moving too quickly in the air.)
+
+Blocks Nearby: [NETHER_BRICK_FENCE, NETHER_BRICKS, NETHER_BRICKS, NETHER_BRICKS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, NETHER_BRICKS, NETHER_BRICKS, NETHER_BRICKS, NETHER_BRICKS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, NETHER_BRICKS, NETHER_BRICKS, NETHER_BRICKS, NETHER_BRICKS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Chocolatebar582 was punished for Sprint (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 1847.6525959375463
+ - Y: 66.0
+ - Z: 13170.560395322676
+
+Information:
+ - UUID: 321e9a97-74ed-4af1-997a-6b4b521f91cc
+ - Keep Alive Ping: 95
+ - Transaction Ping: 158
+ - Server TPS: 20
+ - Sensitivity: -33
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 88.2 seconds ago
+
+Total Violations: 16
+ - Combat Violations: 0
+ - Movement Violations: 16
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 5385
+ - Since Riptide Ticks: 36652
+ - Flying Delay: 0
+ - Since Velocity Ticks: 1764
+ - Since Firework Ticks: 36652
+ - Ticks Existed: 38848
+ - Since Vehicle Ticks: 36552
+ - Since Liquid Ticks: 217
+ - Queued Transactions: 0
+ - Joined: 1959 seconds ago
+
+All Violations:
+ - Speed (Type A) [VL: 1] (Invalid friction.)
+ - Sprint (Type A) [VL: 15] (Invalid sprint direction.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT_PATH, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Chocolatebar582 was punished for Strafe (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 1917.1957801948079
+ - Y: 71.02442408821369
+ - Z: 13122.451640747275
+
+Information:
+ - UUID: 321e9a97-74ed-4af1-997a-6b4b521f91cc
+ - Keep Alive Ping: 71
+ - Transaction Ping: 120
+ - Server TPS: 20
+ - Sensitivity: -30
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 47.0 seconds ago
+
+Total Violations: 40
+ - Combat Violations: 0
+ - Movement Violations: 40
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 3198
+ - Since Riptide Ticks: 12961
+ - Flying Delay: 12
+ - Since Velocity Ticks: 940
+ - Since Firework Ticks: 12961
+ - Ticks Existed: 16930
+ - Since Vehicle Ticks: 12861
+ - Since Liquid Ticks: 5130
+ - Queued Transactions: 1
+ - Joined: 854 seconds ago
+
+All Violations:
+ - Flight (Type B) [VL: 9] (Invalid Y-Axis movement.)
+ - Jump (Type A) [VL: 4] (Invalid jump motion.)
+ - Speed (Type A) [VL: 7] (Invalid friction.)
+ - Sprint (Type A) [VL: 5] (Invalid sprint direction.)
+ - Strafe (Type A) [VL: 15] (Moving incorrectly in the air.)
+ - Timer (Type A) [VL: 1] (Increased game speed.)
+ - Timer (Type D) [VL: 2] (Increased game speed.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Chocolatebar582 was punished for Invalid (Type E) ]--------------
+
+Location:
+ - World: world
+ - X: 1872.4357171850043
+ - Y: 64.0
+ - Z: 13146.740955945781
+
+Information:
+ - UUID: 321e9a97-74ed-4af1-997a-6b4b521f91cc
+ - Keep Alive Ping: 90
+ - Transaction Ping: 97
+ - Server TPS: 20
+ - Sensitivity: -34
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 716.0 seconds ago
+
+Total Violations: 11
+ - Combat Violations: 0
+ - Movement Violations: 3
+ - Player Violations: 8
+
+Misc Information:
+ - Since Teleport Ticks: 395
+ - Since Riptide Ticks: 12192
+ - Flying Delay: 35
+ - Since Velocity Ticks: 14320
+ - Since Firework Ticks: 12192
+ - Ticks Existed: 14220
+ - Since Vehicle Ticks: 12092
+ - Since Liquid Ticks: 4202
+ - Queued Transactions: 1
+ - Joined: 735 seconds ago
+
+All Violations:
+ - Sprint (Type A) [VL: 3] (Invalid sprint direction.)
+ - Invalid (Type E) [VL: 8] (Too large X/Z-Axis movement.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Chocolatebar582 was punished for Sprint (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 1864.787819849015
+ - Y: 63.9375
+ - Z: 13147.250723331019
+
+Information:
+ - UUID: 321e9a97-74ed-4af1-997a-6b4b521f91cc
+ - Keep Alive Ping: 78
+ - Transaction Ping: 114
+ - Server TPS: 20
+ - Sensitivity: -30
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 179.8 seconds ago
+
+Total Violations: 17
+ - Combat Violations: 0
+ - Movement Violations: 17
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 217
+ - Since Riptide Ticks: 14678
+ - Flying Delay: 50
+ - Since Velocity Ticks: 3596
+ - Since Firework Ticks: 14678
+ - Ticks Existed: 19201
+ - Since Vehicle Ticks: 14578
+ - Since Liquid Ticks: 763
+ - Queued Transactions: 0
+ - Joined: 972 seconds ago
+
+All Violations:
+ - Jump (Type A) [VL: 1] (Invalid jump motion.)
+ - Speed (Type A) [VL: 1] (Invalid friction.)
+ - Sprint (Type A) [VL: 15] (Invalid sprint direction.)
+
+Blocks Nearby: [DIRT, DIRT, DIRT, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, DIRT, DIRT, DIRT_PATH, DIRT_PATH, DIRT_PATH, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, DIRT, DIRT, DIRT_PATH, DIRT_PATH, DIRT_PATH, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ criminalkara was punished for Strafe (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -4511.477301488892
+ - Y: 52.384096694562416
+ - Z: 11304.274614064123
+
+Information:
+ - UUID: aebdfa9b-d6cb-4475-bb04-0bd95dfb38fc
+ - Keep Alive Ping: 406
+ - Transaction Ping: 25248
+ - Server TPS: 20
+ - Sensitivity: 70
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 22.35 seconds ago
+
+Total Violations: 28
+ - Combat Violations: 0
+ - Movement Violations: 28
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 5456
+ - Since Riptide Ticks: 16892
+ - Flying Delay: 1
+ - Since Velocity Ticks: 447
+ - Since Firework Ticks: 2874
+ - Ticks Existed: 19776
+ - Since Vehicle Ticks: 5952
+ - Since Liquid Ticks: 6767
+ - Queued Transactions: 101
+ - Joined: 1418 seconds ago
+
+All Violations:
+ - Flight (Type B) [VL: 4] (Invalid Y-Axis movement.)
+ - Jump (Type A) [VL: 3] (Invalid jump motion.)
+ - Speed (Type A) [VL: 5] (Invalid friction.)
+ - Speed (Type C) [VL: 1] (Moving too quickly in the air.)
+ - Strafe (Type A) [VL: 15] (Moving incorrectly in the air.)
+ - Timer (Type D) [VL: 22] (Increased game speed.)
+
+Blocks Nearby: [STONE, GRAVEL, GRAVEL, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRAVEL, GRAVEL, GRAVEL, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRAVEL, GRAVEL, GRAVEL, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Wintooo was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -4384.699999988079
+ - Y: -59.0
+ - Z: 10464.392534446406
+
+Information:
+ - UUID: 9e29ff12-954a-4633-8e6d-692b7b504a6b
+ - Keep Alive Ping: 52
+ - Transaction Ping: 68
+ - Server TPS: 20
+ - Sensitivity: 173
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 0.0 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 4707
+ - Since Riptide Ticks: 28138
+ - Flying Delay: 1002
+ - Since Velocity Ticks: 0
+ - Since Firework Ticks: 28138
+ - Ticks Existed: 29519
+ - Since Vehicle Ticks: 28038
+ - Since Liquid Ticks: 84
+ - Queued Transactions: 1
+ - Joined: 3208 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [BEDROCK, DEEPSLATE, DEEPSLATE, COBBLED_DEEPSLATE, COBBLED_DEEPSLATE, COBBLED_DEEPSLATE, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE, BEDROCK, DEEPSLATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE]
+Entities Nearby: [CraftItem]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ alkalinekats was punished for Entity Speed (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 20275.756967142126
+ - Y: 70.39999997615814
+ - Z: -3507.5160198335284
+
+Information:
+ - UUID: be15ce4b-6d9a-4c01-9b75-c2fcba764e5f
+ - Keep Alive Ping: 125
+ - Transaction Ping: 109
+ - Server TPS: 20
+ - Sensitivity: 199
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: CraftCamel
+ - Version: 1.20
+ - Last Damage: 155.3 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 2671
+ - Since Riptide Ticks: 33343
+ - Flying Delay: 58
+ - Since Velocity Ticks: 3106
+ - Since Firework Ticks: 457
+ - Ticks Existed: 40045
+ - Since Vehicle Ticks: 0
+ - Since Liquid Ticks: 182
+ - Queued Transactions: 1
+ - Joined: 3224 seconds ago
+
+All Violations:
+ - Entity Speed (Type A) [VL: 15] (Riding an entity too quickly.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftCamel]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ alkalinekats was punished for Entity Speed (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 19898.90007019887
+ - Y: 71.15060386870614
+ - Z: -3402.893586726251
+
+Information:
+ - UUID: be15ce4b-6d9a-4c01-9b75-c2fcba764e5f
+ - Keep Alive Ping: 29
+ - Transaction Ping: 110
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: CraftCamel
+ - Version: 1.20
+ - Last Damage: 34.8 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 696
+ - Since Riptide Ticks: 203
+ - Flying Delay: 47
+ - Since Velocity Ticks: 696
+ - Since Firework Ticks: 203
+ - Ticks Existed: 596
+ - Since Vehicle Ticks: 0
+ - Since Liquid Ticks: 103
+ - Queued Transactions: 1
+ - Joined: 29 seconds ago
+
+All Violations:
+ - Entity Speed (Type A) [VL: 15] (Riding an entity too quickly.)
+
+Blocks Nearby: [SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftCamel]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ alkalinekats was punished for Entity Speed (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 19748.398336373604
+ - Y: 65.16669457612252
+ - Z: -3423.03140138539
+
+Information:
+ - UUID: be15ce4b-6d9a-4c01-9b75-c2fcba764e5f
+ - Keep Alive Ping: 68
+ - Transaction Ping: 159
+ - Server TPS: 20
+ - Sensitivity: 199
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: CraftCamel
+ - Version: 1.20
+ - Last Damage: 54.1 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1082
+ - Since Riptide Ticks: 203
+ - Flying Delay: 40
+ - Since Velocity Ticks: 1082
+ - Since Firework Ticks: 203
+ - Ticks Existed: 982
+ - Since Vehicle Ticks: 0
+ - Since Liquid Ticks: 103
+ - Queued Transactions: 0
+ - Joined: 49 seconds ago
+
+All Violations:
+ - Entity Speed (Type A) [VL: 15] (Riding an entity too quickly.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftCamel]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ alkalinekats was punished for Entity Speed (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 19575.567083935963
+ - Y: 65.39999997615814
+ - Z: -3504.0221951002054
+
+Information:
+ - UUID: be15ce4b-6d9a-4c01-9b75-c2fcba764e5f
+ - Keep Alive Ping: 0
+ - Transaction Ping: 104
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: CraftCamel
+ - Version: 1.20
+ - Last Damage: 9.2 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 184
+ - Since Riptide Ticks: 203
+ - Flying Delay: 48
+ - Since Velocity Ticks: 184
+ - Since Firework Ticks: 203
+ - Ticks Existed: 84
+ - Since Vehicle Ticks: 0
+ - Since Liquid Ticks: 103
+ - Queued Transactions: 0
+ - Joined: 4 seconds ago
+
+All Violations:
+ - Entity Speed (Type A) [VL: 15] (Riding an entity too quickly.)
+
+Blocks Nearby: [WATER, WATER, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftCamel]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ alkalinekats was punished for Entity Speed (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 19559.875742677414
+ - Y: 64.39999997615814
+ - Z: -3519.0348320620255
+
+Information:
+ - UUID: be15ce4b-6d9a-4c01-9b75-c2fcba764e5f
+ - Keep Alive Ping: 0
+ - Transaction Ping: 128
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: CraftCamel
+ - Version: 1.20
+ - Last Damage: 16.1 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 322
+ - Since Riptide Ticks: 204
+ - Flying Delay: 56
+ - Since Velocity Ticks: 322
+ - Since Firework Ticks: 204
+ - Ticks Existed: 222
+ - Since Vehicle Ticks: 0
+ - Since Liquid Ticks: 104
+ - Queued Transactions: 0
+ - Joined: 11 seconds ago
+
+All Violations:
+ - Entity Speed (Type A) [VL: 15] (Riding an entity too quickly.)
+
+Blocks Nearby: [SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftCamel]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ alkalinekats was punished for Entity Speed (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 18559.881125314165
+ - Y: 65.39999997615814
+ - Z: -3640.678478953314
+
+Information:
+ - UUID: be15ce4b-6d9a-4c01-9b75-c2fcba764e5f
+ - Keep Alive Ping: 164
+ - Transaction Ping: 192
+ - Server TPS: 20
+ - Sensitivity: 199
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: CraftCamel
+ - Version: 1.20
+ - Last Damage: 60.15 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 959
+ - Since Riptide Ticks: 13119
+ - Flying Delay: 60
+ - Since Velocity Ticks: 1203
+ - Since Firework Ticks: 7100
+ - Ticks Existed: 26006
+ - Since Vehicle Ticks: 0
+ - Since Liquid Ticks: 200
+ - Queued Transactions: 0
+ - Joined: 1569 seconds ago
+
+All Violations:
+ - Entity Speed (Type A) [VL: 15] (Riding an entity too quickly.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftCamel]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ alkalinekats was punished for Entity Speed (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 17389.744465195476
+ - Y: 91.42499995231628
+ - Z: -4861.28795438814
+
+Information:
+ - UUID: be15ce4b-6d9a-4c01-9b75-c2fcba764e5f
+ - Keep Alive Ping: 135
+ - Transaction Ping: 120
+ - Server TPS: 20
+ - Sensitivity: 199
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: CraftCamel
+ - Version: 1.20
+ - Last Damage: 64.05 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 4408
+ - Since Riptide Ticks: 5012
+ - Flying Delay: 31
+ - Since Velocity Ticks: 1281
+ - Since Firework Ticks: 356
+ - Ticks Existed: 18830
+ - Since Vehicle Ticks: 0
+ - Since Liquid Ticks: 4
+ - Queued Transactions: 0
+ - Joined: 977 seconds ago
+
+All Violations:
+ - Entity Speed (Type A) [VL: 15] (Riding an entity too quickly.)
+
+Blocks Nearby: [GRASS_BLOCK, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftWolf{owner=CraftPlayer{name=alkalinekats},tamed=true}, CraftCamel]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ alkalinekats was punished for Entity Speed (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 16869.014728980364
+ - Y: 72.17000007629395
+ - Z: -4907.772138990874
+
+Information:
+ - UUID: be15ce4b-6d9a-4c01-9b75-c2fcba764e5f
+ - Keep Alive Ping: 191
+ - Transaction Ping: 90
+ - Server TPS: 20
+ - Sensitivity: 199
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: CraftCamel
+ - Version: 1.20
+ - Last Damage: 84.6 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1499
+ - Since Riptide Ticks: 1190
+ - Flying Delay: 38
+ - Since Velocity Ticks: 1692
+ - Since Firework Ticks: 1190
+ - Ticks Existed: 3551
+ - Since Vehicle Ticks: 0
+ - Since Liquid Ticks: 788
+ - Queued Transactions: 0
+ - Joined: 198 seconds ago
+
+All Violations:
+ - Entity Speed (Type A) [VL: 15] (Riding an entity too quickly.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftCamel]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Dr3gen was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 13852.76796351849
+ - Y: 92.47266550919923
+ - Z: -9134.917147064487
+
+Information:
+ - UUID: 8b3a0919-c391-4ce4-8c54-1dcae5d91125
+ - Keep Alive Ping: 57
+ - Transaction Ping: 139
+ - Server TPS: 20
+ - Sensitivity: 105
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 21.2 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 424
+ - Since Riptide Ticks: 471
+ - Flying Delay: 49
+ - Since Velocity Ticks: 424
+ - Since Firework Ticks: 471
+ - Ticks Existed: 324
+ - Since Vehicle Ticks: 371
+ - Since Liquid Ticks: 371
+ - Queued Transactions: 0
+ - Joined: 33 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Dr3gen was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 13856.291183867595
+ - Y: 94.34023441893072
+ - Z: -9134.622841175951
+
+Information:
+ - UUID: 8b3a0919-c391-4ce4-8c54-1dcae5d91125
+ - Keep Alive Ping: 0
+ - Transaction Ping: 180
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 7.95 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 19
+ - Since Riptide Ticks: 253
+ - Flying Delay: 31
+ - Since Velocity Ticks: 159
+ - Since Firework Ticks: 253
+ - Ticks Existed: 59
+ - Since Vehicle Ticks: 153
+ - Since Liquid Ticks: 153
+ - Queued Transactions: 0
+ - Joined: 3 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Dr3gen was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 13861.640782297425
+ - Y: 90.67647087614428
+ - Z: -9148.014165291022
+
+Information:
+ - UUID: 8b3a0919-c391-4ce4-8c54-1dcae5d91125
+ - Keep Alive Ping: 0
+ - Transaction Ping: 167
+ - Server TPS: 20
+ - Sensitivity: 105
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 10.7 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 214
+ - Since Riptide Ticks: 313
+ - Flying Delay: 53
+ - Since Velocity Ticks: 214
+ - Since Firework Ticks: 313
+ - Ticks Existed: 114
+ - Since Vehicle Ticks: 213
+ - Since Liquid Ticks: 213
+ - Queued Transactions: 1
+ - Joined: 6 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, TERRACOTTA, TERRACOTTA, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, TERRACOTTA, TERRACOTTA, TERRACOTTA, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Creeperboy014 was punished for Boat Fly (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: 11138.540092226804
+ - Y: 63.58749997615814
+ - Z: -7935.440836004552
+
+Information:
+ - UUID: f95f2ef2-c490-4adb-96e6-60d4f039ae4c
+ - Keep Alive Ping: 63
+ - Transaction Ping: 85
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: CraftBoat{boatType=OAK,status=IN_AIR,passengers={CraftPlayer{name=Creeperboy014}}}
+ - Version: 1.20.2
+ - Last Damage: 23.1 seconds ago
+
+Total Violations: 27
+ - Combat Violations: 0
+ - Movement Violations: 27
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 92
+ - Since Riptide Ticks: 15758
+ - Flying Delay: 46
+ - Since Velocity Ticks: 462
+ - Since Firework Ticks: 15758
+ - Ticks Existed: 20252
+ - Since Vehicle Ticks: 0
+ - Since Liquid Ticks: 133
+ - Queued Transactions: 0
+ - Joined: 2273 seconds ago
+
+All Violations:
+ - Boat Fly (Type A) [VL: 8] (Moving upwards in a boat.)
+ - Boat Fly (Type B) [VL: 3] (Moving too quickly horizontally.)
+ - Boat Fly (Type C) [VL: 15] (Hovering in a boat.)
+ - Motion (Type C) [VL: 1] (Invalid jump motion.)
+ - Timer (Type D) [VL: 1] (Increased game speed.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftBoat{boatType=OAK,status=IN_AIR,passengers={CraftPlayer{name=Creeperboy014}}}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Creeperboy014 was punished for Boat Fly (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: 11096.207961071414
+ - Y: 71.86750014424308
+ - Z: -7904.514554688217
+
+Information:
+ - UUID: f95f2ef2-c490-4adb-96e6-60d4f039ae4c
+ - Keep Alive Ping: 15
+ - Transaction Ping: 68
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: CraftBoat{boatType=OAK,status=IN_AIR,passengers={CraftPlayer{name=Creeperboy014}}}
+ - Version: 1.20.2
+ - Last Damage: 27.6 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 318
+ - Since Riptide Ticks: 271
+ - Flying Delay: 4
+ - Since Velocity Ticks: 552
+ - Since Firework Ticks: 271
+ - Ticks Existed: 452
+ - Since Vehicle Ticks: 0
+ - Since Liquid Ticks: 4
+ - Queued Transactions: 1
+ - Joined: 23 seconds ago
+
+All Violations:
+ - Boat Fly (Type C) [VL: 15] (Hovering in a boat.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftBoat{boatType=OAK,status=IN_AIR,passengers={CraftPlayer{name=Creeperboy014}}}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Creeperboy014 was punished for Bad Packets (Type 1) ]--------------
+
+Location:
+ - World: world
+ - X: 11085.130498632896
+ - Y: 60.0
+ - Z: -7903.300000011921
+
+Information:
+ - UUID: f95f2ef2-c490-4adb-96e6-60d4f039ae4c
+ - Keep Alive Ping: 17
+ - Transaction Ping: 66
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 9.85 seconds ago
+
+Total Violations: 29
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 29
+
+Misc Information:
+ - Since Teleport Ticks: 197
+ - Since Riptide Ticks: 222
+ - Flying Delay: 153
+ - Since Velocity Ticks: 197
+ - Since Firework Ticks: 222
+ - Ticks Existed: 97
+ - Since Vehicle Ticks: 122
+ - Since Liquid Ticks: 122
+ - Queued Transactions: 1
+ - Joined: 27 seconds ago
+
+All Violations:
+ - Bad Packets (Type 1) [VL: 15] (Sent too many Start Dig packets.)
+ - Bad Packets (Type 2) [VL: 14] (Sent too many Stop Dig packets.)
+ - Bad Packets (Type 6) [VL: 51] (Invalid Block Dig packets.)
+
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Creeperboy014 was punished for Bad Packets (Type 2) ]--------------
+
+Location:
+ - World: world
+ - X: 11085.130498632896
+ - Y: 60.0
+ - Z: -7903.300000011921
+
+Information:
+ - UUID: f95f2ef2-c490-4adb-96e6-60d4f039ae4c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 83
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 5.05 seconds ago
+
+Total Violations: 29
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 29
+
+Misc Information:
+ - Since Teleport Ticks: 101
+ - Since Riptide Ticks: 201
+ - Flying Delay: 1701225231678
+ - Since Velocity Ticks: 101
+ - Since Firework Ticks: 201
+ - Ticks Existed: 1
+ - Since Vehicle Ticks: 101
+ - Since Liquid Ticks: 101
+ - Queued Transactions: 0
+ - Joined: 0 seconds ago
+
+All Violations:
+ - Bad Packets (Type 1) [VL: 14] (Sent too many Start Dig packets.)
+ - Bad Packets (Type 2) [VL: 15] (Sent too many Stop Dig packets.)
+ - Bad Packets (Type 6) [VL: 46] (Invalid Block Dig packets.)
+
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Creeperboy014 was punished for Bad Packets (Type 1) ]--------------
+
+Location:
+ - World: world
+ - X: 11085.130498632896
+ - Y: 60.0
+ - Z: -7903.300000011921
+
+Information:
+ - UUID: f95f2ef2-c490-4adb-96e6-60d4f039ae4c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 196
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 5.05 seconds ago
+
+Total Violations: 29
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 29
+
+Misc Information:
+ - Since Teleport Ticks: 101
+ - Since Riptide Ticks: 201
+ - Flying Delay: 1701225236666
+ - Since Velocity Ticks: 101
+ - Since Firework Ticks: 201
+ - Ticks Existed: 1
+ - Since Vehicle Ticks: 101
+ - Since Liquid Ticks: 101
+ - Queued Transactions: 0
+ - Joined: 0 seconds ago
+
+All Violations:
+ - Bad Packets (Type 1) [VL: 15] (Sent too many Start Dig packets.)
+ - Bad Packets (Type 2) [VL: 14] (Sent too many Stop Dig packets.)
+ - Bad Packets (Type 6) [VL: 46] (Invalid Block Dig packets.)
+
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Creeperboy014 was punished for Bad Packets (Type 1) ]--------------
+
+Location:
+ - World: world
+ - X: 11085.130498632896
+ - Y: 60.0
+ - Z: -7903.300000011921
+
+Information:
+ - UUID: f95f2ef2-c490-4adb-96e6-60d4f039ae4c
+ - Keep Alive Ping: 0
+ - Transaction Ping: 298
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 5.05 seconds ago
+
+Total Violations: 29
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 29
+
+Misc Information:
+ - Since Teleport Ticks: 101
+ - Since Riptide Ticks: 201
+ - Flying Delay: 1701225247268
+ - Since Velocity Ticks: 101
+ - Since Firework Ticks: 201
+ - Ticks Existed: 1
+ - Since Vehicle Ticks: 101
+ - Since Liquid Ticks: 101
+ - Queued Transactions: 1
+ - Joined: 0 seconds ago
+
+All Violations:
+ - Bad Packets (Type 1) [VL: 15] (Sent too many Start Dig packets.)
+ - Bad Packets (Type 2) [VL: 14] (Sent too many Stop Dig packets.)
+ - Bad Packets (Type 6) [VL: 46] (Invalid Block Dig packets.)
+
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ SMITE08 was punished for Sprint (Type A) ]--------------
+
+Location:
+ - World: world_nether
+ - X: 2033.8082285871137
+ - Y: 128.0
+ - Z: 1853.0894106009002
+
+Information:
+ - UUID: 159ff932-a1bf-4337-ba78-0661975c4961
+ - Keep Alive Ping: 150
+ - Transaction Ping: 60
+ - Server TPS: 20
+ - Sensitivity: -27
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 417.75 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 705
+ - Since Riptide Ticks: 23996
+ - Flying Delay: 57
+ - Since Velocity Ticks: 8355
+ - Since Firework Ticks: 23996
+ - Ticks Existed: 25193
+ - Since Vehicle Ticks: 23896
+ - Since Liquid Ticks: 8757
+ - Queued Transactions: 0
+ - Joined: 1374 seconds ago
+
+All Violations:
+ - Sprint (Type A) [VL: 15] (Invalid sprint direction.)
+
+Blocks Nearby: [BEDROCK, BEDROCK, BEDROCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, BEDROCK, BEDROCK, BEDROCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, BEDROCK, BEDROCK, BEDROCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Smokez01 was punished for Motion (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: 17316.087968951437
+ - Y: 69.59520098382933
+ - Z: -3172.8747851345033
+
+Information:
+ - UUID: f2e25bbe-bca1-4310-a219-eaee8c9d2af0
+ - Keep Alive Ping: 99
+ - Transaction Ping: 145
+ - Server TPS: 20
+ - Sensitivity: 79
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 16.8 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 5
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 336
+ - Since Riptide Ticks: 409
+ - Flying Delay: 49
+ - Since Velocity Ticks: 336
+ - Since Firework Ticks: 409
+ - Ticks Existed: 236
+ - Since Vehicle Ticks: 309
+ - Since Liquid Ticks: 309
+ - Queued Transactions: 1
+ - Joined: 68 seconds ago
+
+All Violations:
+ - Motion (Type C) [VL: 5] (Invalid jump motion.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ SMITE08 was punished for Sprint (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 11727.360159831152
+ - Y: 91.0
+ - Z: -948.7564608033848
+
+Information:
+ - UUID: 159ff932-a1bf-4337-ba78-0661975c4961
+ - Keep Alive Ping: 55
+ - Transaction Ping: 56
+ - Server TPS: 20
+ - Sensitivity: -33
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 512.0 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 38841
+ - Since Riptide Ticks: 36838
+ - Flying Delay: 55
+ - Since Velocity Ticks: 10240
+ - Since Firework Ticks: 36838
+ - Ticks Existed: 38741
+ - Since Vehicle Ticks: 36738
+ - Since Liquid Ticks: 22875
+ - Queued Transactions: 1
+ - Joined: 2217 seconds ago
+
+All Violations:
+ - Sprint (Type A) [VL: 15] (Invalid sprint direction.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, DIRT, AIR, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, DIRT, AIR, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, DIRT, AIR, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Itzcookieboy69 was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -4117.503776111285
+ - Y: 68.0
+ - Z: -14235.74123982983
+
+Information:
+ - UUID: ac9bd08d-6583-4c7b-9da8-b96ba435b7e4
+ - Keep Alive Ping: 138
+ - Transaction Ping: 183
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 1.35 seconds ago
+
+Total Violations: 4
+ - Combat Violations: 4
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 171
+ - Since Riptide Ticks: 713
+ - Flying Delay: 60
+ - Since Velocity Ticks: 27
+ - Since Firework Ticks: 713
+ - Ticks Existed: 642
+ - Since Vehicle Ticks: 613
+ - Since Liquid Ticks: 613
+ - Queued Transactions: 1
+ - Joined: 86 seconds ago
+
+All Violations:
+ - Kill Aura (Type A) [VL: 4] (Post UseEntity packets.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ WarriorDaniel was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 22488.362279535333
+ - Y: 67.68610918226008
+ - Z: -7960.299651032842
+
+Information:
+ - UUID: a2e05a22-7254-46f9-a55f-19d36a7683b4
+ - Keep Alive Ping: 230
+ - Transaction Ping: 286
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Feather Fabric
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 3.1 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1399
+ - Since Riptide Ticks: 1515
+ - Flying Delay: 55
+ - Since Velocity Ticks: 62
+ - Since Firework Ticks: 1515
+ - Ticks Existed: 1400
+ - Since Vehicle Ticks: 1415
+ - Since Liquid Ticks: 1128
+ - Queued Transactions: 1
+ - Joined: 131 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ exllu was punished for Scaffold (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: 9835.663297481058
+ - Y: 107.0
+ - Z: 19234.4079477355
+
+Information:
+ - UUID: 7e18b829-bd4f-4074-aec3-b7657acaf7f6
+ - Keep Alive Ping: 109
+ - Transaction Ping: 121
+ - Server TPS: 20
+ - Sensitivity: 41
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 119.75 seconds ago
+
+Total Violations: 13
+ - Combat Violations: 5
+ - Movement Violations: 0
+ - Player Violations: 8
+
+Misc Information:
+ - Since Teleport Ticks: 216
+ - Since Riptide Ticks: 1572
+ - Flying Delay: 52
+ - Since Velocity Ticks: 2395
+ - Since Firework Ticks: 1572
+ - Ticks Existed: 3975
+ - Since Vehicle Ticks: 1472
+ - Since Liquid Ticks: 1472
+ - Queued Transactions: 1
+ - Joined: 120 seconds ago
+
+All Violations:
+ - Criticals (Type A) [VL: 5] (Tried to hit Critical hit on ground.)
+ - Scaffold (Type B) [VL: 3] (Invalid interact.)
+ - Scaffold (Type C) [VL: 5] (Sprinting while bridging.)
+
+Blocks Nearby: [AIR, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Big_Mwnci was punished for Scaffold (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: 10510.66905150361
+ - Y: 75.0
+ - Z: -554.3695848018438
+
+Information:
+ - UUID: a73238b9-1b39-4164-ad61-fb9e8b8de67c
+ - Keep Alive Ping: 120
+ - Transaction Ping: 134
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 64.55 seconds ago
+
+Total Violations: 9
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 9
+
+Misc Information:
+ - Since Teleport Ticks: 5386
+ - Since Riptide Ticks: 16553
+ - Flying Delay: 40
+ - Since Velocity Ticks: 1291
+ - Since Firework Ticks: 16553
+ - Ticks Existed: 17743
+ - Since Vehicle Ticks: 16453
+ - Since Liquid Ticks: 15524
+ - Queued Transactions: 0
+ - Joined: 1125 seconds ago
+
+All Violations:
+ - Scaffold (Type B) [VL: 4] (Invalid interact.)
+ - Scaffold (Type C) [VL: 5] (Sprinting while bridging.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, DIRT, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [JUMP:(-1t-x2), SPEED:(23t-x2)]
+---------------------------------------------------------------------------
+
+
+--------------[ Big_Mwnci was punished for Elytra (Type K) ]--------------
+
+Location:
+ - World: world
+ - X: 10544.845202246917
+ - Y: 103.95704778451787
+ - Z: -565.5009558314216
+
+Information:
+ - UUID: a73238b9-1b39-4164-ad61-fb9e8b8de67c
+ - Keep Alive Ping: 72
+ - Transaction Ping: 119
+ - Server TPS: 20
+ - Sensitivity: 118
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 7.4 seconds ago
+
+Total Violations: 17
+ - Combat Violations: 0
+ - Movement Violations: 17
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 222
+ - Since Riptide Ticks: 570
+ - Flying Delay: 45
+ - Since Velocity Ticks: 148
+ - Since Firework Ticks: 570
+ - Ticks Existed: 402
+ - Since Vehicle Ticks: 470
+ - Since Liquid Ticks: 130
+ - Queued Transactions: 1
+ - Joined: 50 seconds ago
+
+All Violations:
+ - Elytra (Type C) [VL: 2] (Invalid acceleration.)
+ - Elytra (Type K) [VL: 15] (Accelerating while ascending.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [JUMP:(-1t-x2)]
+---------------------------------------------------------------------------
+
+
+--------------[ Big_Mwnci was punished for Scaffold (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: 10499.495129803348
+ - Y: 77.0
+ - Z: -556.7461188654943
+
+Information:
+ - UUID: a73238b9-1b39-4164-ad61-fb9e8b8de67c
+ - Keep Alive Ping: 121
+ - Transaction Ping: 125
+ - Server TPS: 20
+ - Sensitivity: 118
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 130.1 seconds ago
+
+Total Violations: 8
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 8
+
+Misc Information:
+ - Since Teleport Ticks: 7946
+ - Since Riptide Ticks: 7414
+ - Flying Delay: 40
+ - Since Velocity Ticks: 2602
+ - Since Firework Ticks: 7414
+ - Ticks Existed: 7846
+ - Since Vehicle Ticks: 7314
+ - Since Liquid Ticks: 7314
+ - Queued Transactions: 0
+ - Joined: 487 seconds ago
+
+All Violations:
+ - Scaffold (Type B) [VL: 3] (Invalid interact.)
+ - Scaffold (Type C) [VL: 5] (Sprinting while bridging.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, DIRT, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [JUMP:(-1t-x2), SPEED:(69t-x2)]
+---------------------------------------------------------------------------
+
+
+--------------[ Big_Mwnci was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 10518.963342376186
+ - Y: 69.85196902246221
+ - Z: -566.5932969481835
+
+Information:
+ - UUID: a73238b9-1b39-4164-ad61-fb9e8b8de67c
+ - Keep Alive Ping: 120
+ - Transaction Ping: 128
+ - Server TPS: 20
+ - Sensitivity: 118
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 338.05 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 3656
+ - Since Riptide Ticks: 7653
+ - Flying Delay: 53
+ - Since Velocity Ticks: 6761
+ - Since Firework Ticks: 7653
+ - Ticks Existed: 8592
+ - Since Vehicle Ticks: 7553
+ - Since Liquid Ticks: 7093
+ - Queued Transactions: 1
+ - Joined: 571 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [JUMP:(-1t-x2)]
+---------------------------------------------------------------------------
+
+
+--------------[ Big_Mwnci was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 10519.529632916187
+ - Y: 65.20000004768372
+ - Z: -560.9921633041322
+
+Information:
+ - UUID: a73238b9-1b39-4164-ad61-fb9e8b8de67c
+ - Keep Alive Ping: 119
+ - Transaction Ping: 133
+ - Server TPS: 20
+ - Sensitivity: 118
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.20.2
+ - Last Damage: 196.1 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 3922
+ - Since Riptide Ticks: 3448
+ - Flying Delay: 54
+ - Since Velocity Ticks: 3922
+ - Since Firework Ticks: 3448
+ - Ticks Existed: 3822
+ - Since Vehicle Ticks: 3348
+ - Since Liquid Ticks: 3348
+ - Queued Transactions: 0
+ - Joined: 218 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, COBBLESTONE, COBBLESTONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, COBBLESTONE, COBBLESTONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, COBBLESTONE, COBBLESTONE]
+Entities Nearby: []
+Potion Effects: [JUMP:(-1t-x2)]
+---------------------------------------------------------------------------
+
+
+--------------[ Big_Mwnci was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 10477.892829516206
+ - Y: 74.63533909231536
+ - Z: -573.9554558824204
+
+Information:
+ - UUID: a73238b9-1b39-4164-ad61-fb9e8b8de67c
+ - Keep Alive Ping: 84
+ - Transaction Ping: 159
+ - Server TPS: 20
+ - Sensitivity: -34
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 3.05 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 1231
+ - Since Riptide Ticks: 1327
+ - Flying Delay: 54
+ - Since Velocity Ticks: 61
+ - Since Firework Ticks: 1327
+ - Ticks Existed: 1131
+ - Since Vehicle Ticks: 1227
+ - Since Liquid Ticks: 1227
+ - Queued Transactions: 1
+ - Joined: 70 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [JUMP:(-1t-x2)]
+---------------------------------------------------------------------------
+
+

@@ -14,7 +14,7 @@ services:
   - "Minecraft-MP.com"
   - "Minecraft-Server.net"
   - "TopMinecraftServers"
-  - "FindMCServer"
+  - "Minecraft Menu"
 free-premium-crate:
   enable: true
   rules:
